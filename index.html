@@ -36,7 +36,7 @@ var y = d3.scaleLinear()
 var z = d3.scaleOrdinal()
     .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
 
-d3.text('death.csv', function(error, raw) {
+d3.text('death_2015.csv', function(error, raw) {
 
   if (error) throw error;
 
@@ -46,9 +46,9 @@ d3.text('death.csv', function(error, raw) {
 
   var parseDate = d3.utcParse("%Y-W%W");
 
-  data.forEach(function(d) {
-      d['TIME_PERIOD'] = parseDate(d['TIME_PERIOD']);
-  });
+//  data.forEach(function(d) {
+//      d['TIME_PERIOD'] = parseDate(d['TIME_PERIOD']);
+//  });
 
   sorted['GEO']         = d3.map(data, function(d){return d['GEO'];}).keys()
   sorted['TIME_PERIOD'] = d3.map(data, function(d){return d['TIME_PERIOD'];}).keys()
@@ -101,8 +101,8 @@ d3.text('death.csv', function(error, raw) {
   };
 
   //console.log(cantons);
-  console.log(keys);
-  console.log(cantons['CH']);
+  //console.log(keys);
+  //console.log(cantons['CH']);
   //console.log(d3.stack().keys(keys)(cantons['CH']));
 
   g.append("g")
@@ -130,8 +130,9 @@ d3.text('death.csv', function(error, raw) {
   g.append("g")
       .attr("class", "axis")
       .attr("transform", "translate(0," + height + ")")
-      .call(d3.axisBottom(x)
-              .tickFormat(d3.timeFormat("%Y-%m-%d")))
+//      .call(d3.axisBottom(x)
+//              .tickFormat(d3.timeFormat("%Y-%m-%d")))
+      .call(d3.axisBottom(x))
       .selectAll("text") 
         .style("text-anchor", "end")
         .attr("dx", "-.8em")
