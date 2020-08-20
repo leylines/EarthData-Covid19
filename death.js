@@ -158,7 +158,7 @@ cum_data.then(async function(cum_data) {
       .rangeRound([height - margin.bottom, margin.top])
 
     color = d3.scaleOrdinal()
-      .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"])
+      .range(['#e6194b', '#3cb44b', '#ffe119', '#4363d8', '#f58231', '#911eb4', '#46f0f0', '#f032e6', '#bcf60c', '#fabebe', '#008080', '#e6beff', '#9a6324', '#fffac8', '#800000', '#aaffc3', '#808000', '#ffd8b1', '#000075', '#808080', '#000000'])
 
     xAxis = g => g
       .attr("transform", `translate(0,${height - margin.bottom})`)
