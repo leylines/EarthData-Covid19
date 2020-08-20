@@ -87,17 +87,26 @@ cum_data.then(async function(cum_data) {
   var corona_data = cum_data['corona_data']
 
   var region_data = {};
+  var region_data_keys = [];
+  var sum_data = {};
   for (var geo of death_data['GEO']) {
     region_data[geo] = [];
+    sum_data[geo] = []; 
     for (var act_ts in death_data[geo]) {
       var values = {} 
       var week = act_ts.slice(5);
       var year = act_ts.slice(0,4);
       var last_ts = year + "-" + String(week-1);
-      values['TimePeriod'] = "W" + week;
+      values['TIME_PERIOD'] = "W" + week;
+      if (region_data_keys.indexOf("W" + week) === -1) {
+        region_data_keys.push("W" + week);
+      }
+      var total = 0
       for (var age in death_data[geo][act_ts]) {
         values[age] = death_data[geo][act_ts][age]['T']
+        total += death_data[geo][act_ts][age]['T']
       };
+      sum_data[geo].push(total);
       if (geo != 'CH') {
         if (typeof corona_data[geo] !== "undefined" && typeof corona_data[geo][act_ts] !== "undefined") {
           if (typeof corona_data[geo][last_ts] !== "undefined") {
@@ -131,76 +140,39 @@ cum_data.then(async function(cum_data) {
 
   const keys = ['Y0T4', 'Y5T9', 'Y10T14', 'Y15T19', 'Y20T24', 'Y25T29', 'Y30T34', 'Y35T39', 'Y40T44', 'Y45T49', 'Y50T54', 'Y55T59', 'Y60T64', 'Y65T69', 'Y70T74', 'Y75T79', 'Y80T84', 'Y85T89', 'Y_GE90', 'Corona']
 
-  const groupKey = "TimePeriod"
-
-  var divWidth = 2000;
+  var divWidth = 1200;
   var divHeight = 800;
-  var margin = {top: 10, right: 5, bottom: 20, left: 5}
+  var margin = {top: 20, right: 20, bottom: 30, left: 40}
     width = divWidth - margin.left - margin.right,
     height = divHeight - margin.top - margin.bottom;
 
+  // set x scale
+  var x = d3.scaleBand()
+    .rangeRound([0, width - 80])
+    .paddingInner(0.05)
+    .align(0.1);
+
+  // set y scale
+  var y = d3.scaleLinear()
+    .rangeRound([height, 0]);
+
+  // set the colors
+  var colors = d3.schemeSpectral[11].reverse();
+
+  //var colors = d3.scaleSequential().domain([1, 19]).range([0, 1])
+  //console.log(colors)
+
+  var z = d3.scaleOrdinal()
+    .range(colors);
+
   Object.keys(region_data).sort().forEach(function(region) {
 
-    var data = region_data[region];
-
-    x0 = d3.scaleBand()
-      .domain(data.map(d => d[groupKey]))
-      .rangeRound([margin.left, width - margin.right])
-      .paddingInner(0.1)
-
-    x1 = d3.scaleBand()
-      .domain(keys)
-      .rangeRound([0, x0.bandwidth()])
-      .padding(0.05)
-
-    y = d3.scaleLinear()
-      .domain([0, d3.max(data, d => d3.max(keys, key => d[key]))]).nice()
-      .rangeRound([height - margin.bottom, margin.top])
-
-    color = d3.scaleOrdinal()
-      .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"])
-
-    xAxis = g => g
-      .attr("transform", `translate(0,${height - margin.bottom})`)
-      .call(d3.axisBottom(x0).tickSizeOuter(0))
-      .call(g => g.select(".domain").remove())
-
-    yAxis = g => g
-      .attr("transform", `translate(${margin.left},0)`)
-      .call(d3.axisLeft(y).ticks(null, "s"))
-      .call(g => g.select(".domain").remove())
-      .call(g => g.select(".tick:last-of-type text").clone()
-        .attr("x", 3)
-        .attr("text-anchor", "start")
-        .attr("font-weight", "bold")
-        .text(data.y))
-
-    legend = svg => {
-      const g = svg
-        .attr("transform", `translate(${width},0)`)
-        .attr("text-anchor", "end")
-        .attr("font-family", "sans-serif")
-        .attr("font-size", 10)
-        .selectAll("g")
-        .data(color.domain().slice().reverse())
-        .join("g")
-        .attr("transform", (d, i) => `translate(0,${i * 20})`);
-
-      g.append("rect")
-        .attr("x", -19)
-        .attr("width", 19)
-        .attr("height", 19)
-        .attr("fill", color);
-
-      g.append("text")
-        .attr("x", -24)
-        .attr("y", 9.5)
-        .attr("dy", "0.35em")
-        .text(d => d);
-    }
+    x.domain(region_data_keys);
+    y.domain([0, d3.max(sum_data[region]) + d3.max(sum_data[region])*0.2 ]).nice();
+    z.domain(keys);
 
     var svg = d3.select("body")
-      .append("div")
+      .append("div")    
       .attr("width", divWidth)
       .attr("height", divHeight)
       .attr("id", region)
@@ -210,28 +182,98 @@ cum_data.then(async function(cum_data) {
       .attr("height", height)
       .attr("viewBox", "0 0 " + divWidth  + " " + divHeight);
 
-    svg.append("g")
+    var g = svg.append("g")
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    g.append("text")
+      .attr("x", 30)
+      .attr("y", 00)
+      .attr("dy", "0.71em")
+      .attr("fill", "#000")
+      .text(geoshort[region])
+      .attr("font-family", "sans-serif")
+      .style("fill", "#000000");
+
+    g.append("g")
       .selectAll("g")
-      .data(data)
-      .join("g")
-      .attr("transform", d => `translate(${x0(d[groupKey])},0)`)
+      .data(d3.stack().keys(keys)(region_data[region]))
+      .enter().append("g")
+      .attr("fill", function(d) { return z(d.key); })
       .selectAll("rect")
-      .data(d => keys.map(key => ({key, value: d[key]})))
-      .join("rect")
-      .attr("x", d => x1(d.key))
-      .attr("y", d => y(d.value))
-      .attr("width", x1.bandwidth())
-      .attr("height", d => y(0) - y(d.value))
-      .attr("fill", d => color(d.key));
+      .data(function(d) { return d; })
+      .enter().append("rect")
+      .attr("x", function(d) { return x(d.data['TIME_PERIOD']); })
+      .attr("y", function(d) { return y(d[1]); })
+      .attr("height", function(d) { return y(d[0]) - y(d[1]); })
+      .attr("width", x.bandwidth())
+      .on("mouseover", function() { tooltip.style("display", null); })
+      .on("mouseout", function() { tooltip.style("display", "none"); })
+      .on("mousemove", function(d) {
+        var xPosition = d3.mouse(this)[0] - 5;
+        var yPosition = d3.mouse(this)[1] - 5;
+        tooltip.attr("transform", "translate(" + xPosition + "," + yPosition + ")");
+        tooltip.select("text").text(d[1]-d[0]);
+      });
 
-    svg.append("g")
-      .call(xAxis);
+    g.append("g")
+      .attr("class", "axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(d3.axisBottom(x))
+      .selectAll("text") 
+      .style("text-anchor", "end")
+      .attr("dx", "-.8em")
+      .attr("dy", ".15em")
+      .attr("transform", "rotate(-65)");
 
-    svg.append("g")
-      .call(yAxis);
+    g.append("g")
+      .attr("class", "axis")
+      .call(d3.axisLeft(y).ticks(null, "s"))
+      .append("text")
+      .attr("x", 2)
+      .attr("y", y(y.ticks().pop()) + 0.5)
+      .attr("dy", "0.32em")
+      .attr("fill", "#000")
+      .attr("font-weight", "bold")
+      .attr("text-anchor", "start");
 
-    svg.append("g")
-      .call(legend);
+    var legend = svg.append("g")
+      .attr("font-family", "sans-serif")
+      .attr("font-size", 10)
+      .attr("text-anchor", "end")
+      .selectAll("g")
+      .data(keys.slice().reverse())
+      .enter().append("g")
+      .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+
+    legend.append("rect")
+      .attr("x", width - 19)
+      .attr("width", 19)
+      .attr("height", 19)
+      .attr("fill", z);
+
+    legend.append("text")
+      .attr("x", width - 30)
+      .attr("y", 9.5)
+      .attr("dy", "0.32em")
+      .text(function(d) { return d; });
+
+    // Prep the tooltip bits, initial display is hidden
+    var tooltip = svg.append("g")
+      .attr("class", "tooltip-" + region)
+      .style("display", "none")
+      
+    tooltip.append("rect")
+      .attr("width", 60)
+      .attr("height", 20)
+      .attr("fill", "white")
+      .style("opacity", 0.5);
+
+    tooltip.append("text")
+      .attr("x", 30)
+      .attr("dy", "1.2em")
+      .style("text-anchor", "middle")
+      .attr("font-size", "12px")
+      .attr("font-weight", "bold");
 
   });
 });
