@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Persons
+title: Personen
 permalink: /persons/
 ---
 ## Samuel Eckert
@@ -11,3 +11,6 @@ permalink: /persons/
 <i class="fab fa-telegram"></i> [samueleckert](https://t.me/samueleckert)  
 <i class="fas fa-globe"></i> [miraandsam.com](https://miraandsam.com)
 
+## Sucharit Bakthi
+
+## Dr. Wodarg

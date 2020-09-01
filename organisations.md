@@ -3,12 +3,47 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Organisations
+title: Organisationen
 permalink: /organisations/
 ---
-<script src="https://kit.fontawesome.com/9eaf3ec7b6.js" crossorigin="anonymous"></script>
 
-## Samuel Eckert
-<i class="fab fa-youtube"></i> [SamuelEckert](https://www.youtube.com/c/SamuelEckert)
-<i class="fab fa-telegram"></i> [samueleckert](https://t.me/samueleckert)
-<i class="fas fa-globe"></i> [miraandsam.com](https://miraandsam.com)
+# Recht
+
+## <img src="{{site.baseurl}}/assets/img/flaggen/ch.png"> WirKlagenAn
+<i class="fas fa-globe"></i> [wirklagenan.org](https://wirklagenan.org/)  
+
+## <img src="{{site.baseurl}}/assets/img/flaggen/de.png"> Corona-Ausschuss
+<i class="fas fa-globe"></i> [corona-ausschuss.de](https://corona-ausschuss.de/)  
+<i class="fab fa-telegram"></i> [Corona_Ausschuss](https://t.me/Corona_Ausschuss)  
+
+## <img src="{{site.baseurl}}/assets/img/flaggen/de.png"> klagePATEN
+<i class="fas fa-globe"></i> [klagepaten.eu](https://klagepaten.eu/)  
+
+## Corona-Transition
+<i class="fas fa-globe"></i> [corona-transition.org](https://corona-transition.org)  
+<i class="fab fa-telegram"></i> [CoronaTransition](https://t.me/CoronaTransition)  
+
+## Demokratischer Widerstand
+<i class="fas fa-globe"></i> [demokratischerwiderstand.de](https://demokratischerwiderstand.de/)  
+
+# Gesundheit
+
+## Ärzte für Aufklärung
+<i class="fas fa-globe"></i> [www.ärzte-für-aufklärung.de](https://www.ärzte-für-aufklärung.de/)  
+
+## RPP-Institut
+
+Das Institut für Religiosität in Psychiatrie und Psychotherapie ist 2009 aus der gleichnamigen, 2007 in Graz gestarteten Kongressreihe hervorgegangen und dessen Rechtsnachfolger. Die Gründer sind der Psychiater Raphael M. Bonelli, der Psychotherapeut Walter Pieringer und der Theologe Bernd Oberndorfer. Der Sitz des Institutes ist Wien.
+
+<i class="fas fa-globe"></i> [rpp-institut.org](https://rpp-institut.org/)  
+<i class="fab fa-youtube"></i> [rppinstitut](https://www.youtube.com/user/rppinstitut)  
+<i class="fab fa-telegram"></i> [rppinstitut](https://t.me/rppinstitut)  
+
+# Whistleblower 
+
+## Mutigmacher e.V.
+<i class="fas fa-globe"></i> [mutigmacher.org](https://mutigmacher.org/)  
+
+## Kritische Polizisten
+<i class="fas fa-globe"></i> [www.kritische-polizisten.de](https://www.kritische-polizisten.de/)  
+
