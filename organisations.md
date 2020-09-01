@@ -7,6 +7,32 @@ title: Organisationen
 permalink: /organisations/
 ---
 
+## Seiten
+<div>
+{% if site.data.navlist.toc[0] %}
+  {% for item in site.data.navlist.toc %}
+    {% if item.title == "Organisationen" %}
+      <h3>{{ item.title }}</h3>
+      {% if item.subfolderitems[0] %}
+        <ul>
+        {% for entry in item.subfolderitems %}
+          <li><a href="{{ entry.url }}">{{ entry.page }}</a>
+          {% if entry.subsubfolderitems[0] %}
+            <ul>
+            {% for subentry in entry.subsubfolderitems %}
+              <li><a href="{{ subentry.url }}">{{ subentry.page }}</a></li>
+            {% endfor %}
+            </ul>
+          {% endif %}
+          </li>
+        {% endfor %}
+        </ul>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+</div>
+
 # Recht
 
 ## <img src="{{site.baseurl}}/assets/img/flaggen/ch.png"> WirKlagenAn

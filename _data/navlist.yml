@@ -1,0 +1,26 @@
+toc:
+  - title: Organisationen
+    subfolderitems:
+      - page: Gesundheit
+        url: /health.md
+      - page: Recht
+        url: /law.md
+        subsubfolderitems:
+          - page: Schweiz
+            url: org/law/swiss.html
+          - page: Deutschland
+            url: org/law/germany.html
+      - page: Anderes
+        url: /other.html
+  - title: Personen
+    subfolderitems:
+      - page: Schweiz
+        url: person/swiss.html
+      - page: Deutschland
+        url: person/germany.html
+  - title: Medien
+    subfolderitems:
+      - page: Schweiz
+        url: media/swiss.html
+      - page: Deutschland
+        url: media(germany.html
