@@ -10,6 +10,8 @@ permalink: /media/germany
 
 # <img src="{{site.baseurl}}/assets/img/flaggen/de.png"> Deutschland
 
+<br/>
+
 ## Corona-Transition
 
 | <i class="fas fa-globe"></i> | [corona-transition.org](https://corona-transition.org) |

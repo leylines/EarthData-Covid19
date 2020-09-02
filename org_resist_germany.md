@@ -10,6 +10,8 @@ permalink: /org/resist/germany
 
 # <img src="{{site.baseurl}}/assets/img/flaggen/de.png"> Deutschland
 
+<br/>
+
 ## Demokratischer Widerstand
 
 | <i class="fas fa-globe"></i> | [demokratischerwiderstand.de](https://demokratischerwiderstand.de/) |

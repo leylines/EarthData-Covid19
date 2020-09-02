@@ -10,6 +10,8 @@ permalink: /person/health/germany
 
 # <img src="{{site.baseurl}}/assets/img/flaggen/de.png"> Deutschland
 
+<br/>
+
 ## Walter Weber, Arzt - Hamburg
 
 | <i class="fa fa-forward" aria-hidden="true"></i> | [Ärzte für Aufklärung]({{ site.baseurl }}/org/health/germany.html#ärzte-für-aufklärung) |

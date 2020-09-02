@@ -10,6 +10,8 @@ permalink: /person/resist/germany
 
 # <img src="{{site.baseurl}}/assets/img/flaggen/de.png"> Deutschland
 
+<br/>
+
 ## Samuel Eckert
 
 | <i class="fas fa-globe"></i> | [miraandsam.com](https://miraandsam.com) |

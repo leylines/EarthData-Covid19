@@ -10,6 +10,8 @@ permalink: /media/swiss
 
 # <img src="{{site.baseurl}}/assets/img/flaggen/ch.png"> Schweiz
 
+<br/>
+
 ## stricker.tv
 
 | <i class="fas fa-globe"></i>    | [stricker.tv](https://www.stricker.tv/) |

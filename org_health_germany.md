@@ -10,6 +10,8 @@ permalink: /org/health/germany
 
 # <img src="{{site.baseurl}}/assets/img/flaggen/de.png"> Deutschland
 
+<br/>
+
 ## Ärzte für Aufklärung
 
 | <i class="fas fa-globe"></i> | [www.ärzte-für-aufklärung.de](https://www.ärzte-für-aufklärung.de/) |

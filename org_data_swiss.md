@@ -10,6 +10,8 @@ permalink: /org/data/swiss
 
 # <img src="{{site.baseurl}}/assets/img/flaggen/ch.png"> Schweiz  
 
+<br/>
+
 ## BAG
 
 | <i class="fas fa-globe"></i> | [Situation Schweiz](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html) |

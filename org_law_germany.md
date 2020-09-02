@@ -10,6 +10,8 @@ permalink: /org/law/germany
 
 # <img src="{{site.baseurl}}/assets/img/flaggen/de.png"> Deutschland  
 
+<br/>
+
 ## Corona-Ausschuss
 
 | <i class="fas fa-globe"></i> | [corona-ausschuss.de](https://corona-ausschuss.de/) |

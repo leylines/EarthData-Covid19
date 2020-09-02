@@ -10,6 +10,8 @@ permalink: /person/health/swiss
 
 # <img src="{{site.baseurl}}/assets/img/flaggen/ch.png"> Schweiz
 
+<br/>
+
 ## Prof. Dr. med. Pietro Vernazza 
 
 | <i class="fas fa-globe"></i> | [infekt.ch](https://infekt.ch) |

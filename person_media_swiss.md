@@ -10,6 +10,8 @@ permalink: /person/media/swiss
 
 # <img src="{{site.baseurl}}/assets/img/flaggen/ch.png"> Schweiz
 
+<br/>
+
 ## Daniel Stricker
 
 | <i class="fa fa-forward" aria-hidden="true"></i> | [Daniel Stricker]({{ site.baseurl }}/media/swiss.html#strickertv) |
