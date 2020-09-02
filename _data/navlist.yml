@@ -1,6 +1,10 @@
 toc:
   - title: Organisationen
     subfolderitems:
+      - page: Daten
+        subsubfolderitems:
+          - page: Schweiz
+            url: org/data/swiss.html
       - page: Widerstand
         subsubfolderitems:
           - page: Deutschland
@@ -25,9 +29,21 @@ toc:
         subsubfolderitems:
           - page: Deutschland
             url: person/health/germany.html
+          - page: Schweiz
+            url: person/health/swiss.html
+      - page: Medien
+        subsubfolderitems:
+          - page: Schweiz
+            url: person/media/swiss.html
   - title: Medien
     subfolderitems:
       - page: Schweiz
         url: media/swiss.html
       - page: Deutschland
         url: media/germany.html
+  - title: Dateien
+    subfolderitems:
+      - page: Recht
+        subsubfolderitems:
+          - page: Schweiz
+            url: files/law/swiss.html

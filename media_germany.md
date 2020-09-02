@@ -10,6 +10,27 @@ permalink: /media/germany
 
 # <img src="{{site.baseurl}}/assets/img/flaggen/de.png"> Deutschland
 
+## Corona-Transition
+
+| <i class="fas fa-globe"></i> | [corona-transition.org](https://corona-transition.org) |
+| <i class="fab fa-telegram"></i> | [CoronaTransition](https://t.me/CoronaTransition) |
+
+---
+
+<br/>
+## KenFM
+
+| <i class="fas fa-globe"></i> | [https://kenfm.de/](https://kenfm.de/) |
+| <i class="fab fa-youtube"></i>  | [wwwKenFMde](https://www.youtube.com/user/wwwKenFMde) |
+
+---
+
+<br/>
+## Nachdenkseiten
+
+---
+
+<br/>
 ## NuoViso
 
 | <i class="fas fa-globe"></i>    | [nuoviso.tv](https://nuoviso.tv/) |
@@ -20,8 +41,8 @@ permalink: /media/germany
 ---
 
 <br/>
-## Corona-Transition
+## Rubikon
 
-| <i class="fas fa-globe"></i> | [corona-transition.org](https://corona-transition.org) |
-| <i class="fab fa-telegram"></i> | [CoronaTransition](https://t.me/CoronaTransition) |
+---
 
+<br/>

@@ -25,7 +25,3 @@ permalink: /org/law/germany
 ---
 
 <br/>
-## Demokratischer Widerstand
-
-| <i class="fas fa-globe"></i> | [demokratischerwiderstand.de](https://demokratischerwiderstand.de/) |
-

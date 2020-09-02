@@ -14,3 +14,6 @@ permalink: /org/law/swiss
 
 | <i class="fas fa-globe"></i> | [wirklagenan.org](https://wirklagenan.org/) |
 
+---
+
+<br/>
