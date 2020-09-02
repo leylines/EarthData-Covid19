@@ -1,26 +1,33 @@
 toc:
   - title: Organisationen
     subfolderitems:
+      - page: Widerstand
+        subsubfolderitems:
+          - page: Deutschland
+            url: org/resist/germany.html
       - page: Gesundheit
-        url: /health.md
+        subsubfolderitems:
+          - page: Deutschland
+            url: org/health/germany.html
       - page: Recht
-        url: /law.md
         subsubfolderitems:
           - page: Schweiz
             url: org/law/swiss.html
           - page: Deutschland
             url: org/law/germany.html
-      - page: Anderes
-        url: /other.html
   - title: Personen
     subfolderitems:
-      - page: Schweiz
-        url: person/swiss.html
-      - page: Deutschland
-        url: person/germany.html
+      - page: Widerstand
+        subsubfolderitems:
+          - page: Deutschland
+            url: person/resist/germany.html
+      - page: Gesundheit
+        subsubfolderitems:
+          - page: Deutschland
+            url: person/health/germany.html
   - title: Medien
     subfolderitems:
       - page: Schweiz
         url: media/swiss.html
       - page: Deutschland
-        url: media(germany.html
+        url: media/germany.html

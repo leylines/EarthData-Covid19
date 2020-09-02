@@ -11,16 +11,21 @@ permalink: /org/law/germany
 # <img src="{{site.baseurl}}/assets/img/flaggen/de.png"> Deutschland  
 
 ## Corona-Ausschuss
-<i class="fas fa-globe"></i> [corona-ausschuss.de](https://corona-ausschuss.de/)  
-<i class="fab fa-telegram"></i> [Corona_Ausschuss](https://t.me/Corona_Ausschuss)  
 
+| <i class="fas fa-globe"></i> | [corona-ausschuss.de](https://corona-ausschuss.de/) |
+| <i class="fab fa-telegram"></i> | [Corona_Ausschuss](https://t.me/Corona_Ausschuss) |
+
+---
+
+<br/>
 ## klagePATEN
-<i class="fas fa-globe"></i> [klagepaten.eu](https://klagepaten.eu/)  
 
-## Corona-Transition
-<i class="fas fa-globe"></i> [corona-transition.org](https://corona-transition.org)  
-<i class="fab fa-telegram"></i> [CoronaTransition](https://t.me/CoronaTransition)  
+| <i class="fas fa-globe"></i> | [klagepaten.eu](https://klagepaten.eu/) |
 
+---
+
+<br/>
 ## Demokratischer Widerstand
-<i class="fas fa-globe"></i> [demokratischerwiderstand.de](https://demokratischerwiderstand.de/)  
+
+| <i class="fas fa-globe"></i> | [demokratischerwiderstand.de](https://demokratischerwiderstand.de/) |
 
