@@ -24,10 +24,12 @@ github_username:  leylines
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote-theme: https://github.com/SupunKavinda/jekyll-theme-leaf
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
