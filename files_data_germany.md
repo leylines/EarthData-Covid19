@@ -8,7 +8,7 @@ exclude: true
 permalink: /files/data/germany
 ---
 
-# <img src="{{site.baseurl}}/assets/img/flaggen/de.png"> Deutschalnd
+# <img src="{{site.baseurl}}/assets/img/flaggen/de.png"> Deutschland
 <br/>
 
 ##  Analyses, Graphics Covid-19
