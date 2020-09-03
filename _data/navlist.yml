@@ -5,6 +5,8 @@ toc:
         subsubfolderitems:
           - page: Schweiz
             url: org/data/swiss.html
+          - page: USA
+            url: org/data/usa.html
       - page: Widerstand
         subsubfolderitems:
           - page: Schweiz
@@ -49,3 +51,7 @@ toc:
         subsubfolderitems:
           - page: Schweiz
             url: files/law/swiss.html
+      - page: Daten
+        subsubfolderitems:
+          - page: Deutschland
+            url: files/data/germany.html

@@ -9,7 +9,6 @@ permalink: /person/health/swiss
 ---
 
 # <img src="{{site.baseurl}}/assets/img/flaggen/ch.png"> Schweiz
-
 <br/>
 
 ## Prof. Dr. med. Pietro Vernazza 
@@ -17,5 +16,9 @@ permalink: /person/health/swiss
 | <i class="fas fa-globe"></i> | [infekt.ch](https://infekt.ch) |
 
 ---
-
 <br/>
+
+## Beda M. Stadler
+
+### <i class="fas fa-newspaper"></i> Artikel
+* [2020-06-15 - «Panikmacher sollten sich entschuldigen»](https://linth24.ch/articles/13833-panikmacher-sollten-sich-entschuldigen)
