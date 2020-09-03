@@ -12,6 +12,21 @@ permalink: /media/swiss
 
 <br/>
 
+## Bittel TV
+
+| <i class="fab fa-youtube"></i> | [Bittel TV](https://www.youtube.com/c/BITTELTV) |
+| <i class="fab fa-telegram"></i> | [bitteltv](https://t.me/bitteltv) |
+
+---
+<br/>
+## Free Spirit®-TV
+
+| <i class="fas fa-globe"></i>    | [freespirit-tv.ch](https://freespirit-tv.ch/) |
+| <i class="fab fa-youtube"></i>    | [FreeSpirit-TV Schweiz](https://www.youtube.com/channel/UC1tTyhSsiTNV2nnHQZ6ha2w) |
+| <i class="fab fa-facebook"></i>    | [tvfreespirit](https://www.facebook.com/tvfreespirit/) |
+
+---
+<br/>
 ## stricker.tv
 
 | <i class="fas fa-globe"></i>    | [stricker.tv](https://www.stricker.tv/) |
@@ -19,13 +34,4 @@ permalink: /media/swiss
 | <i class="fab fa-facebook"></i>    | [DanielStrickercom](https://www.facebook.com/DanielStrickercom) |
 
 ---
-
-<br/>
-## Bittel TV
-
-| <i class="fab fa-youtube"></i> | [Bittel TV](https://www.youtube.com/c/BITTELTV) |
-| <i class="fab fa-telegram"></i> | [bitteltv](https://t.me/bitteltv) |
-
----
-
 <br/>

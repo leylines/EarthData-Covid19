@@ -14,24 +14,25 @@ permalink: /media/germany
 
 ## Corona-Transition
 
-| <i class="fas fa-globe"></i> | [corona-transition.org](https://corona-transition.org) |
+| <i class="fas fa-globe"></i>    | [corona-transition.org](https://corona-transition.org) |
 | <i class="fab fa-telegram"></i> | [CoronaTransition](https://t.me/CoronaTransition) |
 
 ---
-
 <br/>
 ## KenFM
 
-| <i class="fas fa-globe"></i> | [https://kenfm.de/](https://kenfm.de/) |
+| <i class="fas fa-globe"></i>    | [kenfm.de/](https://kenfm.de/) |
 | <i class="fab fa-youtube"></i>  | [wwwKenFMde](https://www.youtube.com/user/wwwKenFMde) |
 
 ---
-
 <br/>
 ## Nachdenkseiten
 
----
+| <i class="fas fa-globe"></i>    | [www.nachdenkseiten.de](https://www.nachdenkseiten.de/) |
+| <i class="fab fa-youtube"></i>  | [wwwNACHDENKSEITENde](https://www.youtube.com/user/wwwNACHDENKSEITENde) |
+| <i class="fab fa-facebook"></i> | [NachDenkSeiten](https://www.facebook.com/NachDenkSeiten) |
 
+---
 <br/>
 ## NuoViso
 
@@ -41,10 +42,10 @@ permalink: /media/germany
 | <i class="fab fa-facebook"></i> | [NuoViso.TV](https://www.facebook.com/NuoViso.TV/) |
 
 ---
-
 <br/>
 ## Rubikon
 
----
+| <i class="fas fa-globe"></i>    | [www.rubikon.news](https://www.rubikon.news/) |
 
+---
 <br/>
