@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: Home
 layout: home
+list_title: "Letzte Blog-Einträge"
 exclude: true
 ---
 ## Seiten
