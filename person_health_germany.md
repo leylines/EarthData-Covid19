@@ -26,6 +26,7 @@ permalink: /person/health/germany
 ## Dr. Bodo Schiffmann
 
 | <i class="fas fa-globe"></i> | [www.schwindelambulanz-sinsheim.de](https://www.schwindelambulanz-sinsheim.de/) |
+| <i class="fab fa-telegram"></i> | [alles_ausser_mainstream](https://t.me/alles_ausser_mainstream) |
 
 ---
 <br/>

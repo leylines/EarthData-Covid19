@@ -27,6 +27,12 @@ permalink: /media/swiss
 
 ---
 <br/>
+## INFOsperber
+
+| <i class="fas fa-globe"></i>    | [www.infosperber.ch](https://www.infosperber.ch/) |
+
+---
+<br/>
 ## NZZ
 
 | <i class="fas fa-globe"></i>    | [www.nzz.ch](https://www.nzz.ch/) |
