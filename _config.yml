@@ -16,7 +16,7 @@
 title: EarthData Covid19
 email: info@earthdata.ch
 description: >- # this means to ignore newlines until "baseurl:"
-  Seite mit nützlichen Informationen rund um das Thema Corona, Recht und Gesundheit
+  Seite mit nützlichen Informationen rund um das Thema Covid19, Recht und Gesundheit
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://covid19.earthdata.ch" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: EarthAndData
