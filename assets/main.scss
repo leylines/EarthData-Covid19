@@ -6,3 +6,11 @@
 table td:first-of-type {
   width: 10%;
 }
+
+.post-link {
+  @include relative-font-size(1.2);
+}
+
+.post-list > li {
+  margin-bottom: 15px;
+}

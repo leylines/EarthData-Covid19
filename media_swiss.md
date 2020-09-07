@@ -33,18 +33,6 @@ permalink: /media/swiss
 
 ---
 <br/>
-## NZZ
-
-| <i class="fas fa-globe"></i>    | [www.nzz.ch](https://www.nzz.ch/) |
-
-### <i class="fas fa-newspaper"></i> Artikel 
-* [2020-09-02 - Deutsche Gerichte kippen Corona-Verbote und erinnern damit an Selbstverständliches](https://www.nzz.ch/meinung/deutsche-gerichte-kippen-corona-verbote-und-erinnern-damit-an-selbstverstaendliches-freiheit-ist-die-regel-nicht-die-ausnahme-ld.1574538)
-* [2020-09-01 - Kollabierte Kommunikation: Was, wenn am Ende «die Covidioten» recht haben?](https://www.nzz.ch/meinung/kollabierte-kommunikation-was-wenn-am-ende-die-covidioten-recht-haben-ld.1574096)
-<br/>
-<br/>
-
----
-<br/>
 ## stricker.tv
 
 | <i class="fas fa-globe"></i>    | [stricker.tv](https://www.stricker.tv/) |

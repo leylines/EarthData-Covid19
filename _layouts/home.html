@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {% capture url_to_use %}{{ post.url }}{% endcapture %}
+        {% if post.redirect_url %}
+          {% capture url_to_use %}{{ post.redirect_url }}{% endcapture %}
+        {% endif %}
+        {% capture title_to_use %}{{ post.title }}{% endcapture %}
+        {% if post.redirect_site %}
+          {% capture title_to_use %}{{ post.redirect_site | append: ": " | append: post.title }}{% endcapture %}
+        {% endif %}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ url_to_use | relative_url }}">
+            {{ title_to_use | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%}
+
+</div>
+
