@@ -19,12 +19,20 @@ description: >- # this means to ignore newlines until "baseurl:"
   Seite mit nützlichen Informationen rund um das Thema Covid19, Recht und Gesundheit
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://covid19.earthdata.ch" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: EarthAndData
-github_username:  leylines
+minima:
+  social_links:
+    twitter: EarthAndData
+    github: leylines
+
+header_pages:
+  - files.md
+  - org.md
+  - person.md
+  - media.md
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: https://github.com/jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -34,11 +42,7 @@ plugins:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules

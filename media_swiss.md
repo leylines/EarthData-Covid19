@@ -1,16 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 title: Medien
-exclude: true
 permalink: /media/swiss
 ---
 
 # <img src="{{site.baseurl}}/assets/img/flaggen/ch.png"> Schweiz
-
-<br/>
 
 ## Bittel TV
 
@@ -20,7 +14,7 @@ permalink: /media/swiss
 | <i class="fab fa-telegram"></i> | [bitteltv](https://t.me/bitteltv) |
 
 ---
-<br/>
+
 ## Free Spirit®-TV
 
 | <i class="fas fa-globe"></i>    | [freespirit-tv.ch](https://freespirit-tv.ch/) |
@@ -28,13 +22,13 @@ permalink: /media/swiss
 | <i class="fab fa-facebook"></i> | [tvfreespirit](https://www.facebook.com/tvfreespirit/) |
 
 ---
-<br/>
+
 ## INFOsperber
 
 | <i class="fas fa-globe"></i>    | [www.infosperber.ch](https://www.infosperber.ch/) |
 
 ---
-<br/>
+
 ## stricker.tv
 
 | <i class="fas fa-globe"></i>    | [stricker.tv](https://www.stricker.tv/) |
@@ -43,10 +37,9 @@ permalink: /media/swiss
 | <i class="fab fa-facebook"></i> | [DanielStrickercom](https://www.facebook.com/DanielStrickercom) |
 
 ---
-<br/>
+
 ## Die Weltwoche
 
 | <i class="fas fa-globe"></i>    | [www.weltwoche.ch](https://www.weltwoche.ch/) |
 
 ---
-<br/>

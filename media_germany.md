@@ -1,16 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 title: Medien
-exclude: true
 permalink: /media/germany
 ---
 
 # <img src="{{site.baseurl}}/assets/img/flaggen/de.png"> Deutschland
-
-<br/>
 
 ## Corona-Transition
 
@@ -18,14 +12,14 @@ permalink: /media/germany
 | <i class="fab fa-telegram"></i> | [CoronaTransition](https://t.me/CoronaTransition) |
 
 ---
-<br/>
+
 ## KenFM
 
 | <i class="fas fa-globe"></i>    | [kenfm.de/](https://kenfm.de/) |
 | <i class="fab fa-youtube"></i>  | [wwwKenFMde](https://www.youtube.com/user/wwwKenFMde) |
 
 ---
-<br/>
+
 ## Nachdenkseiten
 
 | <i class="fas fa-globe"></i>    | [www.nachdenkseiten.de](https://www.nachdenkseiten.de/) |
@@ -33,7 +27,7 @@ permalink: /media/germany
 | <i class="fab fa-facebook"></i> | [NachDenkSeiten](https://www.facebook.com/NachDenkSeiten) |
 
 ---
-<br/>
+
 ## NuoViso
 
 | <i class="fas fa-globe"></i>    | [nuoviso.tv](https://nuoviso.tv/) |
@@ -42,10 +36,9 @@ permalink: /media/germany
 | <i class="fab fa-facebook"></i> | [NuoViso.TV](https://www.facebook.com/NuoViso.TV/) |
 
 ---
-<br/>
+
 ## Rubikon
 
 | <i class="fas fa-globe"></i>    | [www.rubikon.news](https://www.rubikon.news/) |
 
 ---
-<br/>

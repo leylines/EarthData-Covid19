@@ -1,16 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 title: Organisationen - Gesundheit
-exclude: true
 permalink: /org/health/germany
 ---
 
 # <img src="{{site.baseurl}}/assets/img/flaggen/de.png"> Deutschland
-
-<br/>
 
 ## Ärzte für Aufklärung
 
@@ -18,7 +12,6 @@ permalink: /org/health/germany
 
 ---
 
-<br/>
 ## RPP-Institut
 
 Das Institut für Religiosität in Psychiatrie und Psychotherapie ist 2009 aus der gleichnamigen, 2007 in Graz gestarteten Kongressreihe hervorgegangen und dessen Rechtsnachfolger. Die Gründer sind der Psychiater Raphael M. Bonelli, der Psychotherapeut Walter Pieringer und der Theologe Bernd Oberndorfer. Der Sitz des Institutes ist Wien.
@@ -28,5 +21,3 @@ Das Institut für Religiosität in Psychiatrie und Psychotherapie ist 2009 aus d
 | <i class="fab fa-telegram"></i> | [rppinstitut](https://t.me/rppinstitut) |
 
 ---
-
-<br/>
