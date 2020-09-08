@@ -11,3 +11,7 @@ permalink: /org/law/swiss
 | <i class="fas fa-globe"></i> | [wirklagenan.org](https://wirklagenan.org/) |
 
 ---
+
+## Notrecht Referendum
+
+| <i class="fas fa-globe"></i> | [notrecht-referendum.ch](https://notrecht-referendum.ch/Home) |

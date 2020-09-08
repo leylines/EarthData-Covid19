@@ -3,12 +3,10 @@ layout: page
 title: Dateien
 ---
 
-## Seiten
 <div>
 {% if site.data.navlist.toc[0] %}
   {% for item in site.data.navlist.toc %}
     {% if item.title == page.title %}
-      <h3>{{ item.title }}</h3>
       {% if item.subfolderitems[0] %}
         <ul>
         {% for entry in item.subfolderitems %}

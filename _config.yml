@@ -25,15 +25,20 @@ minima:
     github: leylines
 
 header_pages:
+  - blog/index.html
   - files.md
   - org.md
   - person.md
   - media.md
 
+paginate: 8
+paginate_path: "/blog/page:num/"
+
 # Build settings
 markdown: kramdown
 remote_theme: https://github.com/jekyll/minima
 plugins:
+  - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag

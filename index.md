@@ -1,12 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: Home
 layout: home
 list_title: "Letzte Blog-Einträge"
-exclude: true
 ---
-## Seiten
+## Inhalt
 <div>
 {% if site.data.navlist.toc[0] %}
   {% for item in site.data.navlist.toc %}
@@ -34,7 +31,4 @@ exclude: true
 {% endif %}
 </div>
 
-<br/>
-
 ---
-<br/>
