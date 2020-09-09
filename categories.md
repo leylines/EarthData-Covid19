@@ -6,7 +6,9 @@ title: Kategorien
 
 <div class="home">
 
-{% for category in site.categories %}
+{% assign sorted_categories = site.categories | sort %}
+
+{% for category in sorted_categories %}
     {% capture category_name %}{{ category | first }}{% endcapture %}
 
     <h2 class="post-list-heading">{{ category_name }}</h2>

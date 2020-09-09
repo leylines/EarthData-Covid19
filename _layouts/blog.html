@@ -5,6 +5,8 @@ list_title: Blog
 
 <div class="home">
 
+  {{content}}
+
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
   {% else %}

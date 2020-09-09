@@ -6,7 +6,10 @@ title: Tags
 
 <div class="home">
 
-{% for tag in site.tags %}
+
+{% assign sorted_tags = site.tags | sort %}
+
+{% for tag in sorted_tags %} 
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
 
     <h2 class="post-list-heading">{{ tag_name }}</h2>
