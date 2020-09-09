@@ -6,11 +6,6 @@ permalink: /org/resist/swiss
 
 # <img src="{{site.baseurl}}/assets/img/flaggen/ch.png"> Schweiz
 
-## Petition Frühling2020
-
-| <i class="fas fa-globe"></i> | [fruehling2020.com](https://fruehling2020.com/) |
-
----
 ## WIR2020
 
 | <i class="fas fa-globe"></i> | [widerstand2020.ch](https://widerstand2020.ch/) |
