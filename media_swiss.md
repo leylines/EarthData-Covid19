@@ -15,14 +15,6 @@ permalink: /media/swiss
 
 ---
 
-## Free Spirit®-TV
-
-| <i class="fas fa-globe"></i>    | [freespirit-tv.ch](https://freespirit-tv.ch/) |
-| <i class="fab fa-youtube"></i>  | [FreeSpirit-TV Schweiz](https://www.youtube.com/channel/UC1tTyhSsiTNV2nnHQZ6ha2w) |
-| <i class="fab fa-facebook"></i> | [tvfreespirit](https://www.facebook.com/tvfreespirit/) |
-
----
-
 ## INFOsperber
 
 | <i class="fas fa-globe"></i>    | [www.infosperber.ch](https://www.infosperber.ch/) |
@@ -35,6 +27,12 @@ permalink: /media/swiss
 | <i class="fab fa-youtube"></i>  | [StrickerTV](https://www.youtube.com/channel/UC4b0Zc5gTZqupfe0Twh-6RA) |
 | <i class="fab fa-telegram"></i> | [strickertv](https://t.me/strickertv) |
 | <i class="fab fa-facebook"></i> | [DanielStrickercom](https://www.facebook.com/DanielStrickercom) |
+
+---
+
+## Unerhört - Der Dokfilm zur Coronakrise von Reto Brennwald
+
+| <i class="fas fa-globe"></i>    | [www.unerhoert-der-film.ch](https://www.unerhoert-der-film.ch/) |
 
 ---
 

@@ -23,6 +23,7 @@ minima:
   social_links:
     twitter: EarthAndData
     github: leylines
+  skin: classic
 
 header_pages:
   - blog/index.html
