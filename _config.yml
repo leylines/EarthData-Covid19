@@ -33,6 +33,15 @@ header_pages:
   - person.md
   - media.md
 
+icons:
+  globe:    '<i class="fas fa-globe" style="color: #008800"></i>'
+  facebook: '<i class="fab fa-facebook" style="color: #3B5998;"></i>'
+  youtube:  '<i class="fab fa-youtube" style="color: #FF0000;"></i>'
+  telegram: '<i class="fab fa-telegram" style="color: #0088CC;"></i>'
+  forward:  '<i class="fa fa-forward" style="color: black;"></i>'
+  movie:    '<i class="fas fa-film" style="color: black;"></i>' 
+  github:   '<i class="fab fa-github" style="color: black;"></i>' 
+
 paginate: 8
 paginate_path: "/blog/page:num/"
 

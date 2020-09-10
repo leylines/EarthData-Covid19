@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Dateien - Daten
-permalink: /files/data/germany
 ---
 
 # <img src="{{site.baseurl}}/assets/img/flaggen/de.png"> Deutschland

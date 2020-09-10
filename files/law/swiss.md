@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Dateien - Recht
-permalink: /files/law/swiss
 ---
 
 # <img src="{{site.baseurl}}/assets/img/flaggen/ch.png"> Schweiz

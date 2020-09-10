@@ -1,14 +1,13 @@
 ---
 layout: page
 title: Organisationen - Daten
-permalink: /org/data/usa
 ---
 
 # <img src="{{site.baseurl}}/assets/img/flaggen/us.png"> USA  
 
 ## Centers for Disease Control (CDC)
 
-| <i class="fas fa-globe"></i> | [Weekly Updates by Select Demographic and Geographic Characteristics](https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm) |
+| {{ site.icons.globe }} | [Weekly Updates by Select Demographic and Geographic Characteristics](https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm) |
 
 Erwähnenswert:
 
