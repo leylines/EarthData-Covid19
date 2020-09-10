@@ -4,18 +4,16 @@ permalink: /categories/
 title: Kategorien
 ---
 
-<div class="home">
+  {% assign sorted_categories = site.categories | sort %}
 
-{% assign sorted_categories = site.categories | sort %}
-
-{% for category in sorted_categories %}
+  {%- for category in sorted_categories -%}
     {% capture category_name %}{{ category | first }}{% endcapture %}
 
     <h2 class="post-list-heading">{{ category_name }}</h2>
 
     <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {% for post in site.categories[category_name] %}
+      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+      {%- for post in site.categories[category_name] -%}
       <li>
         {% capture url_to_use %}{{ post.url }}{% endcapture %}
         {% if post.redirect_url %}
@@ -32,7 +30,6 @@ title: Kategorien
           </a>
         </h3>
       </li>
-      {% endfor %}
+      {%- endfor -%}
     </ul>
-{% endfor %}
-</div>
+  {%- endfor -%}

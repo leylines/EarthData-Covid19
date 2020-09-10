@@ -1,14 +1,8 @@
 ---
-layout: default
+layout: blog
+title: Blog
 list_title: Beträge
 ---
-
-<div class="blog">
-  <a href="/categories">Kategorien</a>
-  <span>&nbsp</span>
-  <a href="/tags">Tags</a>
-
-  <hr />
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
@@ -65,4 +59,3 @@ list_title: Beträge
 
   {%- endif -%}
 
-</div>

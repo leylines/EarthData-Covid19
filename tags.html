@@ -4,19 +4,16 @@ permalink: /tags/
 title: Tags
 ---
 
-<div class="home">
+  {% assign sorted_tags = site.tags | sort %}
 
-
-{% assign sorted_tags = site.tags | sort %}
-
-{% for tag in sorted_tags %} 
+  {%- for tag in sorted_tags -%} 
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
 
     <h2 class="post-list-heading">{{ tag_name }}</h2>
 
     <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {% for post in site.tags[tag_name] %}
+      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+      {%- for post in site.tags[tag_name] -%}
       <li>
         {% capture url_to_use %}{{ post.url }}{% endcapture %}
         {% if post.redirect_url %}
@@ -33,7 +30,6 @@ title: Tags
           </a>
         </h3>
       </li>
-      {% endfor %}
+      {%- endfor -%}
     </ul>
-{% endfor %}
-</div>
+  {%- endfor -%}
