@@ -20,6 +20,7 @@ title: Personen - Gesundheit
 ### Dr. Bodo Schiffmann
 
 | {{ site.icons.globe }}    | [www.schwindelambulanz-sinsheim.de](https://www.schwindelambulanz-sinsheim.de/) |
+| {{ site.icons.movie }}    | [bitchute: Alles_Ausser_Mainstream](https://www.bitchute.com/channel/BFqZplJLluQB/) |
 | {{ site.icons.youtube }}  | [Alles Ausser Mainstream Dr. Bodo Schiffmann](https://www.youtube.com/channel/UC94WBmb8xvVUcV_b9Px0P3A) |
 | {{ site.icons.telegram }} | [alles_ausser_mainstream](https://t.me/alles_ausser_mainstream) |
 
