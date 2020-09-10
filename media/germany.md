@@ -12,10 +12,22 @@ title: Medien
 
 ---
 
+### Geschichten aus Wikihausen
+
+Groteske und postfaktische Inhalte aus der Wikipedia
+
+| {{ site.icons.globe }}    | [wikihausen.de](https://wikihausen.de/) |
+| {{ site.icons.telegram }} | [geschichten_aus_wikihausen](https://t.me/geschichten_aus_wikihausen) |
+| {{ site.icons.youtube }}  | [wikihausen](https://www.youtube.com/channel/UCQWqzh6Wcc_2mkBJ5sy3SqA) |
+
+---
+
 ### KenFM
 
-| {{ site.icons.globe }}    | [kenfm.de/](https://kenfm.de/) |
-| {{ site.icons.youtube }}  | [wwwKenFMde](https://www.youtube.com/user/wwwKenFMde) |
+KenFM ist ein freies Presseportal, eine Nachrichtenplattform, die bewusst das Internet als einziges Verbreitungsmedium nutzt und damit im gesamten deutschsprachigen Raum „empfangen“ werden kann.
+
+| {{ site.icons.globe }}    | [kenfm.de](https://kenfm.de/) |
+| {{ site.icons.youtube }}  | [KenFM](https://www.youtube.com/user/wwwKenFMde) |
 
 ---
 
