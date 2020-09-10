@@ -3,9 +3,9 @@ layout: page
 title: Personen - Widerstand
 ---
 
-# <img src="{{site.baseurl}}/assets/img/flaggen/de.png"> Deutschland
+## <img src="{{site.baseurl}}/assets/img/flaggen/de.png"> Deutschland
 
-## Samuel Eckert
+### Samuel Eckert
 
 | {{ site.icons.globe }}    | [miraandsam.com](https://miraandsam.com) |
 | {{ site.icons.youtube }}  | [SamuelEckert](https://www.youtube.com/c/SamuelEckert) |
@@ -13,14 +13,14 @@ title: Personen - Widerstand
 
 ---
 
-## Miriam Hope
+### Miriam Hope
 
 | {{ site.icons.youtube }}  | [Miriam Hope](https://www.youtube.com/channel/UC7tYFDCZWt9v_yOSb2LsLkA) |
 | {{ site.icons.telegram }} | [Miriam_Z](https://t.me/Miriam_Z) |
 
 ---
 
-## Oliver Janich
+### Oliver Janich
 
 | {{ site.icons.globe }}    | [www.oliverjanich.de](https://www.oliverjanich.de) |
 | {{ site.icons.youtube }}  | [OliverJanich](https://www.youtube.com/user/OliverJanich) |
@@ -28,7 +28,7 @@ title: Personen - Widerstand
 
 ---
 
-## Aktivist Mann
+### Aktivist Mann
 
 | {{ site.icons.youtube }}  | [AktivistMann](https://www.youtube.com/c/AktivistMann) |
 

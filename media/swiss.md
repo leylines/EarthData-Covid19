@@ -3,9 +3,18 @@ layout: page
 title: Medien
 ---
 
-# <img src="{{site.baseurl}}/assets/img/flaggen/ch.png"> Schweiz
+## <img src="{{site.baseurl}}/assets/img/flaggen/ch.png"> Schweiz
 
-## Bittel TV
+### Corona-Transition
+
+Corona Transition macht auf öffentlich zugängliche, aber von Entscheidungsträgern kaum beachtete oder ignorierte Informationen zur Corona-Krise aufmerksam.
+
+| {{ site.icons.globe }}    | [corona-transition.org](https://corona-transition.org) |
+| {{ site.icons.telegram }} | [CoronaTransition](https://t.me/CoronaTransition) |
+
+---
+
+### Bittel TV
 
 | {{ site.icons.youtube }}  | [Bittel TV](https://www.youtube.com/c/BITTELTV) |
 | {{ site.icons.youtube }}  | [Bittel TV 2](https://www.youtube.com/channel/UCHfqgvjntX8kXYOl08j2pAg) |
@@ -14,19 +23,19 @@ title: Medien
 
 ---
 
-## Schweizer Monat
+### Schweizer Monat
 
 | {{ site.icons.globe }}    | [schweizermonat.ch](https://schweizermonat.ch/) |
 
 ---
 
-## INFOsperber
+### INFOsperber
 
 | {{ site.icons.globe }}    | [www.infosperber.ch](https://www.infosperber.ch/) |
 
 ---
 
-## stricker.tv
+### stricker.tv
 
 | {{ site.icons.globe }}    | [stricker.tv](https://www.stricker.tv/) |
 | {{ site.icons.youtube }}  | [StrickerTV](https://www.youtube.com/channel/UC4b0Zc5gTZqupfe0Twh-6RA) |
@@ -35,13 +44,7 @@ title: Medien
 
 ---
 
-## Unerhört - Der Dokfilm zur Coronakrise von Reto Brennwald
-
-| {{ site.icons.movie }}    | [www.unerhoert-der-film.ch](https://www.unerhoert-der-film.ch/) |
-
----
-
-## Die Weltwoche
+### Die Weltwoche
 
 | {{ site.icons.globe }}    | [www.weltwoche.ch](https://www.weltwoche.ch/) |
 

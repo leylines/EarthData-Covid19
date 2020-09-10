@@ -9,42 +9,42 @@ toc:
             url: org/data/usa.html
       - page: Widerstand
         subsubfolderitems:
-          - page: Schweiz
-            url: org/resist/swiss.html
           - page: Deutschland
             url: org/resist/germany.html
+          - page: Schweiz
+            url: org/resist/swiss.html
       - page: Gesundheit
         subsubfolderitems:
           - page: Deutschland
             url: org/health/germany.html
       - page: Recht
         subsubfolderitems:
-          - page: Schweiz
-            url: org/law/swiss.html
           - page: Deutschland
             url: org/law/germany.html
+          - page: Schweiz
+            url: org/law/swiss.html
   - title: Personen
     subfolderitems:
       - page: Widerstand
         subsubfolderitems:
           - page: Deutschland
             url: person/resist/germany.html
+          - page: Schweiz
+            url: person/resist/swiss.html
       - page: Gesundheit
         subsubfolderitems:
           - page: Deutschland
             url: person/health/germany.html
           - page: Schweiz
             url: person/health/swiss.html
-      - page: Medien
-        subsubfolderitems:
-          - page: Schweiz
-            url: person/media/swiss.html
   - title: Medien
     subfolderitems:
-      - page: Schweiz
-        url: media/swiss.html
+      - page: Filme
+        url: media/movie.html
       - page: Deutschland
         url: media/germany.html
+      - page: Schweiz
+        url: media/swiss.html
   - title: Dateien
     subfolderitems:
       - page: Recht
