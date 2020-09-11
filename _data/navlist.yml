@@ -7,12 +7,12 @@ toc:
             url: org/data/swiss.html
           - page: USA
             url: org/data/usa.html
-      - page: Widerstand
+      - page: Kritik
         subsubfolderitems:
           - page: Deutschland
-            url: org/resist/germany.html
+            url: org/critism/germany.html
           - page: Schweiz
-            url: org/resist/swiss.html
+            url: org/critism/swiss.html
       - page: Gesundheit
         subsubfolderitems:
           - page: Deutschland
@@ -25,12 +25,12 @@ toc:
             url: org/law/swiss.html
   - title: Personen
     subfolderitems:
-      - page: Widerstand
+      - page: Kritik
         subsubfolderitems:
           - page: Deutschland
-            url: person/resist/germany.html
+            url: person/critism/germany.html
           - page: Schweiz
-            url: person/resist/swiss.html
+            url: person/critism/swiss.html
       - page: Gesundheit
         subsubfolderitems:
           - page: Deutschland
