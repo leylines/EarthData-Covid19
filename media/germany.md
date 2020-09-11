@@ -22,6 +22,12 @@ Groteske und postfaktische Inhalte aus der Wikipedia
 
 ---
 
+### jouwatch
+
+| {{ site.icons.globe }}    | [www.journalistenwatch.com](https://www.journalistenwatch.com/) |
+
+---
+
 ### KenFM
 
 KenFM ist ein freies Presseportal, eine Nachrichtenplattform, die bewusst das Internet als einziges Verbreitungsmedium nutzt und damit im gesamten deutschsprachigen Raum „empfangen“ werden kann.
