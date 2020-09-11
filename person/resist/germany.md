@@ -33,3 +33,10 @@ title: Personen - Widerstand
 | {{ site.icons.youtube }}  | [AktivistMann](https://www.youtube.com/c/AktivistMann) |
 
 ---
+
+
+### Boris Reitschuster
+
+| {{ site.icons.youtube }}  | [www.reitschuster.de](https://www.reitschuster.de/) |
+
+---
