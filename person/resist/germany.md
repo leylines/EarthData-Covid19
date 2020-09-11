@@ -37,6 +37,6 @@ title: Personen - Widerstand
 
 ### Boris Reitschuster
 
-| {{ site.icons.youtube }}  | [www.reitschuster.de](https://www.reitschuster.de/) |
+| {{ site.icons.globe }}  | [www.reitschuster.de](https://www.reitschuster.de/) |
 
 ---
