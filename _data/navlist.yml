@@ -21,6 +21,8 @@ toc:
         subsubfolderitems:
           - page: Deutschland
             url: org/law/germany.html
+          - page: Österreich
+            url: org/law/austria.html
           - page: Schweiz
             url: org/law/swiss.html
   - title: Personen

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Personen - Widerstand
+title: Personen - Kritik
 ---
 
 ## <img src="{{site.baseurl}}/assets/img/flaggen/de.png"> Deutschland

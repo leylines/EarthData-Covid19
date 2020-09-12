@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Organisationen - Widerstand
+title: Organisationen - Kritik
 ---
 
 ## <img src="{{site.baseurl}}/assets/img/flaggen/ch.png"> Schweiz
