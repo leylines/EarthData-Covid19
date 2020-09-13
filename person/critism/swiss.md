@@ -15,6 +15,11 @@ title: Personen - Medien
 | {{ site.icons.forward }} | [Christoph Pfluger]({{ site.baseurl }}/media/swiss.html#corona-transition) |
 
 ---
+### Milosz Matuschek 
+
+| {{ site.icons.forward }} | [Milosz Matuschek]({{ site.baseurl }}/media/swiss.html#schweizer-monat) |
+
+---
 
 ### Daniel Stricker
 
