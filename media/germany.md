@@ -59,3 +59,15 @@ KenFM ist ein freies Presseportal, eine Nachrichtenplattform, die bewusst das In
 | {{ site.icons.globe }}    | [www.rubikon.news](https://www.rubikon.news/) |
 
 ---
+
+### Telepolis
+
+| {{ site.icons.globe }}    | [www.heise.de/tp](https://www.heise.de/tp/) |
+
+---
+
+### Tichys Einblick
+
+| {{ site.icons.globe }}    | [www.tichyseinblick.de](https://www.tichyseinblick.de/) |
+
+---
