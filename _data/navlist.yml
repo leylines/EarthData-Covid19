@@ -3,6 +3,8 @@ toc:
     subfolderitems:
       - page: Daten
         subsubfolderitems:
+          - page: Deutschland
+            url: org/data/germany.html
           - page: Schweiz
             url: org/data/swiss.html
           - page: USA
