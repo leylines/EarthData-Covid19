@@ -28,10 +28,10 @@ author:
 
 header_pages:
   - blog/index.html
-  - files.md
+  - media.md
   - org.md
   - person.md
-  - media.md
+  - files.md
 
 icons:
   globe:    '<i class="fas fa-globe" style="color: #008800"></i>'

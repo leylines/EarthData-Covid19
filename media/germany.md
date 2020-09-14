@@ -5,6 +5,23 @@ title: Medien
 
 ## <img src="{{site.baseurl}}/assets/img/flaggen/de.png"> Deutschland
 
+### Die Achse des Guten
+
+"Der einflussreichste deutsche Autorenblog." (Berliner Zeitung)
+
+| {{ site.icons.globe }}    | [www.achgut.com](https://www.achgut.com/) |
+| {{ site.icons.facebook }} | [achgutcom](https://www.facebook.com/achgutcom/) |
+
+---
+
+### Anderwelt Verlag
+
+Das Portal des Anderwelt Verlags für kritischen Journalismus und Meinungsbildung
+
+| {{ site.icons.globe }}    | [www.anderweltonline.com](https://www.anderweltonline.com/) |
+
+---
+
 ### ET Video & Content
 
 | {{ site.icons.telegram }} | [etvideocontent](https://t.me/etvideocontent) |
@@ -39,6 +56,8 @@ KenFM ist ein freies Presseportal, eine Nachrichtenplattform, die bewusst das In
 
 ### Nachdenkseiten
 
+Analysen zum Zeitgeschehen, Blick hinter die Kulissen, Ideen für eine bessere und gerechtere Welt.
+
 | {{ site.icons.globe }}    | [www.nachdenkseiten.de](https://www.nachdenkseiten.de/) |
 | {{ site.icons.youtube }}  | [wwwNACHDENKSEITENde](https://www.youtube.com/user/wwwNACHDENKSEITENde) |
 | {{ site.icons.facebook }} | [NachDenkSeiten](https://www.facebook.com/NachDenkSeiten) |
@@ -46,6 +65,8 @@ KenFM ist ein freies Presseportal, eine Nachrichtenplattform, die bewusst das In
 ---
 
 ### NuoViso
+
+NuoViso wurde bereits 2005 gegründet und zählt zu den Pionieren in der der alternativen Medienszene, welche ein ganzes Jahrzehnt von Aufklärung geprägt war.
 
 | {{ site.icons.globe }}    | [nuoviso.tv](https://nuoviso.tv/) |
 | {{ site.icons.youtube }}  | [NuoVisoTv](https://www.youtube.com/user/NuoVisoTv) |
@@ -55,6 +76,8 @@ KenFM ist ein freies Presseportal, eine Nachrichtenplattform, die bewusst das In
 ---
 
 ### Rubikon
+
+Rubikon ist das Magazin für die kritische Masse. Sie berichten über das, was in den Massenmedien nicht zu finden ist.
 
 | {{ site.icons.globe }}    | [www.rubikon.news](https://www.rubikon.news/) |
 

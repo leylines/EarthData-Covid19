@@ -5,6 +5,12 @@ title: Personen - Kritik
 
 ## <img src="{{site.baseurl}}/assets/img/flaggen/de.png"> Deutschland
 
+### Blauman.TV
+
+| {{ site.icons.youtube }}  | [BLAUMANN.TV](https://www.youtube.com/channel/UCqXyHhSk2oo1QLJ5wCzbQBw) |
+
+---
+
 ### Samuel Eckert
 
 | {{ site.icons.globe }}    | [miraandsam.com](https://miraandsam.com) |

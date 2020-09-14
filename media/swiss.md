@@ -25,17 +25,24 @@ Corona Transition macht auf öffentlich zugängliche, aber von Entscheidungsträ
 
 ### Schweizer Monat
 
+Der «Schweizer Monat» ist das Debattenmagazin für Politik, Wirtschaft und Kultur aus Zürich. Seit 1921 pflegt er den freiheitlichen Wettbewerb der Ideen unter den besten Autorinnen und Autoren aus der Schweiz und der ganzen Welt.
+
 | {{ site.icons.globe }}    | [schweizermonat.ch](https://schweizermonat.ch/) |
 
 ---
 
 ### INFOsperber
 
+Hinter der Plattform Infosperber.ch steht die gemeinnützige «Schweizerische Stiftung zur Förderung unabhängiger Information» SSUI. Die Stiftung will einen unabhängigen Journalismus in der ganzen Schweiz fördern, insbesondere journalistische Recherchen von gesellschaftlicher und politischer Relevanz.
+
 | {{ site.icons.globe }}    | [www.infosperber.ch](https://www.infosperber.ch/) |
+| {{ site.icons.globe }}    | [Coronavirus: Information statt Panik](https://www.infosperber.ch/Dossier/Coronavirus-Hysterie-oder-Gefahr) |
 
 ---
 
 ### stricker.tv
+
+“Daniel Stricker ist der Wachhund der traditionellen Medien.” - NZZ am Sonntag
 
 | {{ site.icons.globe }}    | [stricker.tv](https://www.stricker.tv/) |
 | {{ site.icons.youtube }}  | [StrickerTV](https://www.youtube.com/channel/UC4b0Zc5gTZqupfe0Twh-6RA) |

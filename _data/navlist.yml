@@ -1,4 +1,12 @@
 toc:
+  - title: Medien
+    subfolderitems:
+      - page: Filme
+        url: media/movie.html
+      - page: Deutschland
+        url: media/germany.html
+      - page: Schweiz
+        url: media/swiss.html
   - title: Organisationen
     subfolderitems:
       - page: Daten
@@ -45,14 +53,6 @@ toc:
             url: person/health/germany.html
           - page: Schweiz
             url: person/health/swiss.html
-  - title: Medien
-    subfolderitems:
-      - page: Filme
-        url: media/movie.html
-      - page: Deutschland
-        url: media/germany.html
-      - page: Schweiz
-        url: media/swiss.html
   - title: Dateien
     subfolderitems:
       - page: Recht

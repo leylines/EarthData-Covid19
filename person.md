@@ -13,7 +13,7 @@ title: Personen
           {% if entry.url %}
             <li><a href="{{ entry.url }}">{{ entry.page }}</a>
           {% else %}
-            <li>{{ entry.page }}
+            <li class="toc-first">{{ entry.page }}
           {% endif %}
           {% if entry.subsubfolderitems[0] %}
             <ul>
