@@ -8,6 +8,7 @@ title: Personen - Gesundheit
 ### Prof. Dr. med. Sucharit Bhakdi
 
 | {{ site.icons.youtube }}  | [Prof. Dr. med. Sucharit Bhakdi](https://www.youtube.com/channel/UCgjxQLDkeoa-uJu4sE0eNrg)
+| {{ site.icons.book }}     | Corona Fehlalarm? Zahlen, Daten und Hintergründe. Zwischen Panikmache und Wissenschaft: welche Maßnahmen sind im Kampf gegen Virus und COVID-19 sinnvoll?<br/>ISBN: 978-3-99060-191-4 |
 
 ---
 

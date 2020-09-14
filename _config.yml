@@ -34,6 +34,7 @@ header_pages:
   - files.md
 
 icons:
+  book:     '<i class="fas fa-book" style="color: black"></i>'
   globe:    '<i class="fas fa-globe" style="color: #008800"></i>'
   facebook: '<i class="fab fa-facebook" style="color: #3B5998;"></i>'
   youtube:  '<i class="fab fa-youtube" style="color: #FF0000;"></i>'
