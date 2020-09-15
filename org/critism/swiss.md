@@ -13,6 +13,13 @@ title: Organisationen - Kritik
 
 ---
 
+### Eltern & Schule stehen auf - Schweiz
+
+| {{ site.icons.telegram }} | [elternundschulestehenaufschweiz](https://t.me/elternundschulestehenaufschweiz) |
+| {{ site.icons.telegram }} | [Infokanal](https://t.me/infokanaleus) |
+
+---
+
 ### WIR2020
 
 | {{ site.icons.globe }}    | [widerstand2020.ch](https://widerstand2020.ch/) |

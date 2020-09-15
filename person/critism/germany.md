@@ -5,6 +5,17 @@ title: Personen - Kritik
 
 ## <img src="{{site.baseurl}}/assets/img/flaggen/de.png"> Deutschland
 
+
+### Andreas Beutel
+
+| {{ site.icons.globe }}    | [www.pythagoras-institut.de](https://www.pythagoras-institut.de/) |
+| {{ site.icons.globe }}    | [www.andreas-beutel.de](https://www.andreas-beutel.de/de/) |
+| {{ site.icons.youtube }}  | [Andreas Beutel](https://www.youtube.com/channel/UCVP9jPB5i6S7dxoKcg0SeRQ) |
+| {{ site.icons.telegram }} | [AndreasBeutelPythagorasInstitut](https://t.me/AndreasBeutelPythagorasInstitut) |
+| {{ site.icons.facebook }} | [Pythagoras.Institut](https://www.facebook.com/Pythagoras.Institut) |
+
+---
+
 ### Blauman.TV
 
 | {{ site.icons.youtube }}  | [BLAUMANN.TV](https://www.youtube.com/channel/UCqXyHhSk2oo1QLJ5wCzbQBw) |
@@ -40,9 +51,23 @@ title: Personen - Kritik
 
 ---
 
+### Kilez More
+
+| {{ site.icons.globe }}    | [www.kilezmore.de](http://www.kilezmore.de/) |
+| {{ site.icons.youtube }}  | [Kilez More](https://www.youtube.com/c/KilezMoreTV) |
+| {{ site.icons.telegram }} | [KilezMore](https://t.me/KilezMore) |
+| {{ site.icons.facebook }} | [KilezMore](https://www.facebook.com/KilezMore) |
+
+---
 
 ### Boris Reitschuster
 
 | {{ site.icons.globe }}  | [www.reitschuster.de](https://www.reitschuster.de/) |
+
+---
+
+### Gerhard Wisnewski
+
+| {{ site.icons.globe }}  | [www.wisnewski.ch](https://www.wisnewski.ch/) |
 
 ---

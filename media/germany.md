@@ -54,6 +54,14 @@ KenFM ist ein freies Presseportal, eine Nachrichtenplattform, die bewusst das In
 
 ---
 
+### KOLLATERAL
+
+Man höre auch die andere Seite
+
+| {{ site.icons.globe }}    | [kollateral.news](https://kollateral.news/) |
+
+---
+
 ### Nachdenkseiten
 
 Analysen zum Zeitgeschehen, Blick hinter die Kulissen, Ideen für eine bessere und gerechtere Welt.
@@ -75,6 +83,15 @@ NuoViso wurde bereits 2005 gegründet und zählt zu den Pionieren in der der alt
 
 ---
 
+### RT Deutsch
+
+RT International gehört zu den renommiertesten Medien-Gruppen mit globaler Ausrichtung und sendet in englischer, spanischer, arabischer, deutscher, französischer und russischer Sprache.
+
+| {{ site.icons.globe }}    | [deutsch.rt.com](https://deutsch.rt.com/) |
+| {{ site.icons.globe }}    | [Aktuelles zu Covid-19](https://deutsch.rt.com/tag/Corona-Virus/) |
+
+---
+
 ### Rubikon
 
 Rubikon ist das Magazin für die kritische Masse. Sie berichten über das, was in den Massenmedien nicht zu finden ist.
@@ -86,10 +103,21 @@ Rubikon ist das Magazin für die kritische Masse. Sie berichten über das, was i
 ### Telepolis
 
 | {{ site.icons.globe }}    | [www.heise.de/tp](https://www.heise.de/tp/) |
+| {{ site.icons.globe }}    | [Thema: Coronavirus](https://www.heise.de/tp/thema/Coronavirus) |
+
+---
+
+### Themen der Zeit
+
+Seit November 2005 ist "www.themen-der-zeit.de" ein Teil der "alternativen" Internet-Presselandschaft.
+
+| {{ site.icons.globe }}    | [www.themen-der-zeit.de](https://www.themen-der-zeit.de) |
 
 ---
 
 ### Tichys Einblick
+
+Das liberal-konservative Meinungsmagazin
 
 | {{ site.icons.globe }}    | [www.tichyseinblick.de](https://www.tichyseinblick.de/) |
 

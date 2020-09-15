@@ -19,6 +19,10 @@ toc:
             url: org/data/swiss.html
           - page: USA
             url: org/data/usa.html
+      - page: Gesundheit
+        subsubfolderitems:
+          - page: Deutschland
+            url: org/health/germany.html
       - page: Kritik
         subsubfolderitems:
           - page: Deutschland
@@ -27,10 +31,6 @@ toc:
             url: org/critism/europe.html
           - page: Schweiz
             url: org/critism/swiss.html
-      - page: Gesundheit
-        subsubfolderitems:
-          - page: Deutschland
-            url: org/health/germany.html
       - page: Recht
         subsubfolderitems:
           - page: Deutschland
@@ -41,18 +41,22 @@ toc:
             url: org/law/swiss.html
   - title: Personen
     subfolderitems:
-      - page: Kritik
-        subsubfolderitems:
-          - page: Deutschland
-            url: person/critism/germany.html
-          - page: Schweiz
-            url: person/critism/swiss.html
       - page: Gesundheit
         subsubfolderitems:
           - page: Deutschland
             url: person/health/germany.html
           - page: Schweiz
             url: person/health/swiss.html
+      - page: Kritik
+        subsubfolderitems:
+          - page: Deutschland
+            url: person/critism/germany.html
+          - page: Schweiz
+            url: person/critism/swiss.html
+      - page: Recht
+        subsubfolderitems:
+          - page: Deutschland
+            url: person/law/germany.html
   - title: Dateien
     subfolderitems:
       - page: Recht

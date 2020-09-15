@@ -17,6 +17,14 @@ Der Corona-Ausschuss untersucht, warum die Bundes- und Landesregierungen beispie
 
 ---
 
+### Corona Schadensersatzklage
+
+Die Strategie hinter der geplanten US-Sammelklage begleiten die schon aus dem Berliner „Corona-Ausschuss“ bekannten Rechtsanwälte.
+
+| {{ site.icons.globe }}    | [klagepaten.eu](https://www.corona-schadensersatzklage.de/) |
+
+---
+
 ### klagePATEN
 
 Die KlagePATEN sind ein Verein mit jahrelanger Erfahrung in rechtlichen Auseinandersetzungen mit Behörden und Dienststellen. 
@@ -27,5 +35,13 @@ Die KlagePATEN sind ein Verein mit jahrelanger Erfahrung in rechtlichen Auseinan
 | {{ site.icons.telegram }} | [KlagepatenElternInfo](https://t.me/KlagepatenElternInfo) |
 | {{ site.icons.twitter }}  | [KlagePaten](https://twitter.com/KlagePaten) |
 | {{ site.icons.facebook }} | [KlagePATEN](https://www.facebook.com/KlagePATEN) |
+
+---
+
+### schlussjetzt
+
+Schlussjetzt ist ein Netzwerk kritischer Juristen. Sie haben auf dieser Seite juristische Mustertexte und Informationen für Sie zusammengestellt, so dass Sie selbst zur Verteidigung Ihrer Grundrechte im Lockdown tätig werden können.
+
+| {{ site.icons.globe }}    | [schlussjetzt.org](http://schlussjetzt.org/)
 
 ---

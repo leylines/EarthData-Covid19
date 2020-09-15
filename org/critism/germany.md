@@ -23,6 +23,12 @@ title: Organisationen - Kritik
 
 ---
 
+### Pädagogen für Aufklärung
+
+| {{ site.icons.telegram }} | [PaedagogenFuerAufklaerung](https://t.me/PaedagogenFuerAufklaerung) |
+
+---
+
 ### Querdenken 711
 
 | {{ site.icons.globe }}    | [querdenken-711.de](https://querdenken-711.de/) |
