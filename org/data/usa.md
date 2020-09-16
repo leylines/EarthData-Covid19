@@ -1,11 +1,10 @@
 ---
-layout: page
-title: Organisationen - Daten
+layout:   page
+title:    Daten
+subtitle: USA
 ---
 
-## <img src="{{site.baseurl}}/assets/img/flaggen/us.png"> USA  
-
-### Centers for Disease Control (CDC)
+## Centers for Disease Control (CDC)
 
 | {{ site.icons.globe }} | [Weekly Updates by Select Demographic and Geographic Characteristics](https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm) |
 

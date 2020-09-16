@@ -1,11 +1,10 @@
 ---
-layout: page
-title: Organisationen - Kritik
+layout:   page
+title:    Kritik
+subtitle: Europa 
 ---
 
-## <img src="{{site.baseurl}}/assets/img/flaggen/eu.jpg"> Europa
-
-### Appell für freie Debattenräume
+## Appell für freie Debattenräume
 
 | {{ site.icons.globe }}    | [idw-europe.org](https://idw-europe.org/) |
 
