@@ -24,6 +24,16 @@ Bittel TV
 
 ---
 
+## ExpressZeitung
+
+Die kritische Monatszeitung
+
+| {{ site.icons.globe }}    | [www.expresszeitung.com](https://www.expresszeitung.com/) |
+| {{ site.icons.telegram }} | [ExpressZeitung](https://t.me/ExpressZeitung) |
+| {{ site.icons.download }} | [Kostenlose PDF der kompletten Ausgabe Nr. 32]({{site.baseurl}}/assets/files/Corona ExpressZeitung Nr. 32 kostenlos.pdf) |
+
+---
+
 ## Rhein-TV
 
 Rhein-TV

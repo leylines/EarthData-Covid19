@@ -30,7 +30,7 @@ navbar-links:
   News: 
     - Ticker: /blog/index.html
     - Kategorien: /categories.html
-    - Tags: /Tags.html
+    - Tags: /tags.html
   Medien: /media.html
   Organisationen: /org.html
   Personen: /person.html
@@ -74,6 +74,7 @@ rss-description: EarthData's Covid-19 News-Feed
 
 icons:
   book:     '<i class="fas fa-book" title="Buch" style="color: black"></i>'
+  download: '<i class="fas fa-file-download" title="Download" style="color: black"></i>'
   globe:    '<i class="fas fa-globe" title="Webpage" style="color: #008800"></i>'
   facebook: '<i class="fab fa-facebook" title="Facebook" style="color: #3B5998;"></i>'
   youtube:  '<i class="fab fa-youtube" title="Youtube" style="color: #FF0000;"></i>'
