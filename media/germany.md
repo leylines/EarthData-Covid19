@@ -30,6 +30,14 @@ ET Video & Content
 
 ---
 
+## GD-TV Schwäbisch Gmünd
+
+GD-TV Schwäbisch Gmünd
+
+| {{ site.icons.youtube }}  | [GD-TV Schwäbisch Gmünd](https://www.youtube.com/c/GDTVSchw%C3%A4bischGm%C3%BCnd) |
+
+---
+
 ## Geschichten aus Wikihausen
 
 Groteske und postfaktische Inhalte aus der Wikipedia.
@@ -62,6 +70,14 @@ KenFM ist ein freies Presseportal, eine Nachrichtenplattform, die bewusst das In
 Man höre auch die andere Seite.
 
 | {{ site.icons.globe }}    | [kollateral.news](https://kollateral.news/) |
+
+---
+
+##  Münchner Demokratie TV
+
+Münchner Demokratie TV
+
+| {{ site.icons.youtube }}  | [Münchner Demokratie TV](https://www.youtube.com/channel/UCcz6KU4ZA0kPMcxz5XEce1A) |
 
 ---
 

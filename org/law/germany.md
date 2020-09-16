@@ -37,6 +37,14 @@ Die KlagePATEN sind ein Verein mit jahrelanger Erfahrung in rechtlichen Auseinan
 
 ---
 
+## Petition für eine ARD-Sondersendung "Wie gefährlich ist Corona?"
+
+Petition für eine ARD-Sondersendung "Wie gefährlich ist Corona?" 
+
+| {{ site.icons.globe }}    | [www.openpetition.de](https://www.openpetition.de/petition/online/ard-sondersendung-wie-gefaehrlich-ist-corona) |
+
+---
+
 ## schlussjetzt
 
 Schlussjetzt ist ein Netzwerk kritischer Juristen. Sie haben auf dieser Seite juristische Mustertexte und Informationen für Sie zusammengestellt, so dass Sie selbst zur Verteidigung Ihrer Grundrechte im Lockdown tätig werden können.
