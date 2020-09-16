@@ -59,11 +59,15 @@ toc:
             url: person/law/germany.html
   - title: Dateien
     subfolderitems:
-      - page: Recht
-        subsubfolderitems:
-          - page: Schweiz
-            url: files/law/swiss.html
       - page: Daten
         subsubfolderitems:
           - page: Deutschland
             url: files/data/germany.html
+      - page: Gesundheit
+        subsubfolderitems:
+          - page: Schweiz
+            url: files/health/swiss.html
+      - page: Recht
+        subsubfolderitems:
+          - page: Schweiz
+            url: files/law/swiss.html

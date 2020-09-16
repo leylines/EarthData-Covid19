@@ -10,6 +10,7 @@ Corona Fakten
 
 | {{ site.icons.globe }}    | [Corona_Fakten: Liste der wichtigsten Artikel ](https://telegra.ph/Corona-Fakten-Liste-der-wichtigsten-Artikel-09-08) |
 | {{ site.icons.telegram }} | [Corona_Fakten](https://t.me/Corona_Fakten) |
+| {{ site.icons.download }} | [Ihr fragt, wir antworten. Fragen 1-60]({{site.baseurl}}/assets/files/Fragen_Antworten_Corona_Fakten_1_60_Deckblatt.pdf) |
 
 ---
 

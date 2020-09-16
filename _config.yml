@@ -84,7 +84,7 @@ icons:
   github:   '<i class="fab fa-github" title="Github" style="color: black;"></i>' 
   twitter:  '<i class="fab fa-twitter" title="Twitter" style="color: #55ACEE;"></i>' 
 
-paginate: 8
+paginate: 10 
 paginate_path: "/blog/page:num/"
 
 # Build settings
@@ -121,4 +121,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
+  - imagemosaic
   - temp

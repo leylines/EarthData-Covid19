@@ -2,6 +2,7 @@ _site
 .sass-cache
 .jekyll-metadata
 /node_modules
+/imagemosaic/env
 /temp
 package-lock.json
 .DS_Store

@@ -4,14 +4,9 @@ title:    Recht
 subtitle: Schweiz
 ---
 
-## BAG / Swissmedic
-
-* <a href="{{site.baseurl}}/assets/files/Merkblatt_zur_aktuellen_COVID-19_Testung_in_der_Schweiz_Swissmedic_BAG_2020-05-20.pdf">Merkblatt zur aktuellen COVID-19 Testung in der Schweiz Swissmedic BAG (2020-05-20)</a>  
-* <a href="{{site.baseurl}}/assets/files/Merkblatt_zur_aktuellen_COVID-19_Testung_in_der_Schweiz_Swissmedic.pdf">Merkblatt zur aktuellen COVID-19 Testung in der Schweiz Swissmedic BAG (2020-08-31)</a>  
-
----
-
 ## Corona-Rebellen
+
+[Corona-Rebellen]({{site.baseurl}}/org/critism/swiss.html#corona-rebellen-schweiz)
 
 * Öffentlicher Verkehr
   * <a href="{{site.baseurl}}/assets/files/Vorgehen bezüglich Maskenpflicht im ÖV_2020-07-24.docx">Vorgehen bezüglich Maskenpflicht im ÖV</a>

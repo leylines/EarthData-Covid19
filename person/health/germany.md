@@ -51,8 +51,9 @@ Walter Weber, Arzt - Hamburg
 
 ## Wolfgang Wodarg
 
-Wolfgang Wodarg
+Dr. Wolfgang Wodarg
 
 | {{ site.icons.globe }}    | [wodarg.com](https://wodarg.com/) |
+| {{ site.icons.facebook }} | [Dr-Wolfgang-Wodarg-83788386909](https://www.facebook.com/Dr-Wolfgang-Wodarg-83788386909) |
 
 ---

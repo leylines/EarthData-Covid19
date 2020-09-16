@@ -9,6 +9,7 @@ subtitle: Schweiz
 Prof. Dr. med. Pietro Vernazza
 
 | {{ site.icons.globe }}    | [infekt.ch](https://infekt.ch) |
+| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/Tags.html#vernazza) |
 
 ---
 
