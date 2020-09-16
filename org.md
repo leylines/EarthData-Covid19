@@ -1,7 +1,7 @@
 ---
 layout:   page
 title:    Organisationen
-subtitle: Organisationen und Gruppen
+subtitle: Organisationen, Gruppen und Verbände
 ---
 
 <div>

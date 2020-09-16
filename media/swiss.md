@@ -24,6 +24,14 @@ Bittel TV
 
 ---
 
+## Rhein-TV
+
+Rhein-TV
+
+| {{ site.icons.youtube }}  | [Rhein-TV News](https://www.youtube.com/channel/UCrCUwenjkPppHZc_DY4zwlQ) |
+
+---
+
 ## Schweizer Monat
 
 Der «Schweizer Monat» ist das Debattenmagazin für Politik, Wirtschaft und Kultur aus Zürich. Seit 1921 pflegt er den freiheitlichen Wettbewerb der Ideen unter den besten Autorinnen und Autoren aus der Schweiz und der ganzen Welt.

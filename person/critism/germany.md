@@ -16,6 +16,15 @@ Andreas Beutel
 
 ---
 
+## Joe Conrad
+
+Joe Conrad
+
+| {{ site.icons.globe }}    | [joconrad.de](http://joconrad.de/) |
+| {{ site.icons.movie }}    | [Beträge auf bewusst.tv](http://bewusst.tv/tag/corona/) |
+
+---
+
 ## Blauman.TV
 
 Blauman.TV
