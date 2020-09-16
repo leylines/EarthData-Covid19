@@ -1,24 +1,30 @@
 ---
-layout: page
-title: Personen - Gesundheit
+layout:   page
+title:    Gesundheit
+subtitle: Deutschland
 ---
 
-## <img src="{{site.baseurl}}/assets/img/flaggen/de.png"> Deutschland
+## Sucharit Bhakdi
 
-### Prof. Dr. med. Sucharit Bhakdi
+Prof. Dr. med. Sucharit Bhakdi
 
 | {{ site.icons.youtube }}  | [Prof. Dr. med. Sucharit Bhakdi](https://www.youtube.com/channel/UCgjxQLDkeoa-uJu4sE0eNrg)
 | {{ site.icons.book }}     | Corona Fehlalarm? Zahlen, Daten und Hintergründe. Zwischen Panikmache und Wissenschaft: welche Maßnahmen sind im Kampf gegen Virus und COVID-19 sinnvoll?<br/>ISBN: 978-3-99060-191-4 |
+| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/Tags.html#bhakdi) |
 
 ---
 
-### Olav Müller-Liebenau, Arzt - Hamburg
+## Olav Müller-Liebenau
+
+Olav Müller-Liebenau, Arzt - Hamburg
 
 | {{ site.icons.forward }}  | [Ärzte für Aufklärung]({{ site.baseurl }}/org/health/germany.html#ärzte-für-aufklärung) |
 
 ---
 
-### Dr. Bodo Schiffmann
+## Bodo Schiffmann
+
+Dr. Bodo Schiffmann
 
 | {{ site.icons.globe }}    | [www.schwindelambulanz-sinsheim.de](https://www.schwindelambulanz-sinsheim.de/) |
 | {{ site.icons.movie }}    | [bitchute: Alles_Ausser_Mainstream](https://www.bitchute.com/channel/BFqZplJLluQB/) |
@@ -27,19 +33,25 @@ title: Personen - Gesundheit
 
 ---
 
-### Heiko Schöning, Arzt - Hamburg
+## Heiko Schöning
+
+Heiko Schöning, Arzt - Hamburg
 
 | {{ site.icons.forward }}  | [Ärzte für Aufklärung]({{ site.baseurl }}/org/health/germany.html#ärzte-für-aufklärung) |
 
 ---
 
-### Walter Weber, Arzt - Hamburg
+## Walter Weber
+
+Walter Weber, Arzt - Hamburg
 
 | {{ site.icons.forward }}  | [Ärzte für Aufklärung]({{ site.baseurl }}/org/health/germany.html#ärzte-für-aufklärung) |
 
 ---
 
-### Wolfgang Wodarg
+## Wolfgang Wodarg
+
+Wolfgang Wodarg
 
 | {{ site.icons.globe }}    | [wodarg.com](https://wodarg.com/) |
 

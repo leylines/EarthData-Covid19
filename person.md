@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Personen
+layout:   page
+title:    Personen
+subtitle: Engagierte Personen
 ---
 
 <div>

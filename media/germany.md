@@ -1,11 +1,10 @@
 ---
-layout: page
-title: Medien
+layout:   page
+title:    Medien
+subtitle: Deutschland
 ---
 
-## <img src="{{site.baseurl}}/assets/img/flaggen/de.png"> Deutschland
-
-### Die Achse des Guten
+## Die Achse des Guten
 
 "Der einflussreichste deutsche Autorenblog." (Berliner Zeitung)
 
@@ -14,24 +13,26 @@ title: Medien
 
 ---
 
-### Anderwelt Verlag
+## Anderwelt Verlag
 
-Das Portal des Anderwelt Verlags für kritischen Journalismus und Meinungsbildung
+Das Portal des Anderwelt Verlags für kritischen Journalismus und Meinungsbildung.
 
 | {{ site.icons.globe }}    | [www.anderweltonline.com](https://www.anderweltonline.com/) |
 
 ---
 
-### ET Video & Content
+## ET Video & Content
+
+ET Video & Content
 
 | {{ site.icons.telegram }} | [etvideocontent](https://t.me/etvideocontent) |
 | {{ site.icons.youtube }}  | [ET Video & Content](https://www.youtube.com/channel/UCgY1gZzOWKSSdUPWCvIlZgg) |
 
 ---
 
-### Geschichten aus Wikihausen
+## Geschichten aus Wikihausen
 
-Groteske und postfaktische Inhalte aus der Wikipedia
+Groteske und postfaktische Inhalte aus der Wikipedia.
 
 | {{ site.icons.globe }}    | [wikihausen.de](https://wikihausen.de/) |
 | {{ site.icons.telegram }} | [geschichten_aus_wikihausen](https://t.me/geschichten_aus_wikihausen) |
@@ -39,13 +40,15 @@ Groteske und postfaktische Inhalte aus der Wikipedia
 
 ---
 
-### jouwatch
+## jouwatch
+
+www.journalistenwatch.com
 
 | {{ site.icons.globe }}    | [www.journalistenwatch.com](https://www.journalistenwatch.com/) |
 
 ---
 
-### KenFM
+## KenFM
 
 KenFM ist ein freies Presseportal, eine Nachrichtenplattform, die bewusst das Internet als einziges Verbreitungsmedium nutzt und damit im gesamten deutschsprachigen Raum „empfangen“ werden kann.
 
@@ -54,15 +57,15 @@ KenFM ist ein freies Presseportal, eine Nachrichtenplattform, die bewusst das In
 
 ---
 
-### KOLLATERAL
+## KOLLATERAL
 
-Man höre auch die andere Seite
+Man höre auch die andere Seite.
 
 | {{ site.icons.globe }}    | [kollateral.news](https://kollateral.news/) |
 
 ---
 
-### Nachdenkseiten
+## Nachdenkseiten
 
 Analysen zum Zeitgeschehen, Blick hinter die Kulissen, Ideen für eine bessere und gerechtere Welt.
 
@@ -72,7 +75,7 @@ Analysen zum Zeitgeschehen, Blick hinter die Kulissen, Ideen für eine bessere u
 
 ---
 
-### NuoViso
+## NuoViso
 
 NuoViso wurde bereits 2005 gegründet und zählt zu den Pionieren in der der alternativen Medienszene, welche ein ganzes Jahrzehnt von Aufklärung geprägt war.
 
@@ -83,7 +86,7 @@ NuoViso wurde bereits 2005 gegründet und zählt zu den Pionieren in der der alt
 
 ---
 
-### RT Deutsch
+## RT Deutsch
 
 RT International gehört zu den renommiertesten Medien-Gruppen mit globaler Ausrichtung und sendet in englischer, spanischer, arabischer, deutscher, französischer und russischer Sprache.
 
@@ -92,7 +95,7 @@ RT International gehört zu den renommiertesten Medien-Gruppen mit globaler Ausr
 
 ---
 
-### Rubikon
+## Rubikon
 
 Rubikon ist das Magazin für die kritische Masse. Sie berichten über das, was in den Massenmedien nicht zu finden ist.
 
@@ -100,14 +103,16 @@ Rubikon ist das Magazin für die kritische Masse. Sie berichten über das, was i
 
 ---
 
-### Telepolis
+## Telepolis
+
+Telepolis
 
 | {{ site.icons.globe }}    | [www.heise.de/tp](https://www.heise.de/tp/) |
 | {{ site.icons.globe }}    | [Thema: Coronavirus](https://www.heise.de/tp/thema/Coronavirus) |
 
 ---
 
-### Themen der Zeit
+## Themen der Zeit
 
 Seit November 2005 ist "www.themen-der-zeit.de" ein Teil der "alternativen" Internet-Presselandschaft.
 
@@ -115,9 +120,9 @@ Seit November 2005 ist "www.themen-der-zeit.de" ein Teil der "alternativen" Inte
 
 ---
 
-### Tichys Einblick
+## Tichys Einblick
 
-Das liberal-konservative Meinungsmagazin
+Das liberal-konservative Meinungsmagazin.
 
 | {{ site.icons.globe }}    | [www.tichyseinblick.de](https://www.tichyseinblick.de/) |
 

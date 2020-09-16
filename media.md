@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Medien
+layout:   page
+title:    Medien
+subtitle: Medien und Filme
 ---
 
 <div>

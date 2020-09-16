@@ -1,12 +1,12 @@
 ---
-layout: page
-title: Personen - Kritik
+layout:   page
+title:    Kritik
+subtitle: Deutschland
 ---
 
-## <img src="{{site.baseurl}}/assets/img/flaggen/de.png"> Deutschland
+## Andreas Beutel
 
-
-### Andreas Beutel
+Andreas Beutel
 
 | {{ site.icons.globe }}    | [www.pythagoras-institut.de](https://www.pythagoras-institut.de/) |
 | {{ site.icons.globe }}    | [www.andreas-beutel.de](https://www.andreas-beutel.de/de/) |
@@ -16,13 +16,17 @@ title: Personen - Kritik
 
 ---
 
-### Blauman.TV
+## Blauman.TV
+
+Blauman.TV
 
 | {{ site.icons.youtube }}  | [BLAUMANN.TV](https://www.youtube.com/channel/UCqXyHhSk2oo1QLJ5wCzbQBw) |
 
 ---
 
-### Samuel Eckert
+## Samuel Eckert
+
+Samuel Eckert
 
 | {{ site.icons.globe }}    | [miraandsam.com](https://miraandsam.com) |
 | {{ site.icons.youtube }}  | [SamuelEckert](https://www.youtube.com/c/SamuelEckert) |
@@ -30,14 +34,18 @@ title: Personen - Kritik
 
 ---
 
-### Miriam Hope
+## Miriam Hope
+
+Miriam Hope
 
 | {{ site.icons.youtube }}  | [Miriam Hope](https://www.youtube.com/channel/UC7tYFDCZWt9v_yOSb2LsLkA) |
 | {{ site.icons.telegram }} | [Miriam_Z](https://t.me/Miriam_Z) |
 
 ---
 
-### Oliver Janich
+## Oliver Janich
+
+Oliver Janich
 
 | {{ site.icons.globe }}    | [www.oliverjanich.de](https://www.oliverjanich.de) |
 | {{ site.icons.youtube }}  | [OliverJanich](https://www.youtube.com/user/OliverJanich) |
@@ -45,13 +53,17 @@ title: Personen - Kritik
 
 ---
 
-### Aktivist Mann
+## Aktivist Mann
+
+Aktivist Mann
 
 | {{ site.icons.youtube }}  | [AktivistMann](https://www.youtube.com/c/AktivistMann) |
 
 ---
 
-### Kilez More
+## Kilez More
+
+Kilez More
 
 | {{ site.icons.globe }}    | [www.kilezmore.de](http://www.kilezmore.de/) |
 | {{ site.icons.youtube }}  | [Kilez More](https://www.youtube.com/c/KilezMoreTV) |
@@ -60,13 +72,17 @@ title: Personen - Kritik
 
 ---
 
-### Boris Reitschuster
+## Boris Reitschuster
+
+Boris Reitschuster
 
 | {{ site.icons.globe }}  | [www.reitschuster.de](https://www.reitschuster.de/) |
 
 ---
 
-### Gerhard Wisnewski
+## Gerhard Wisnewski
+
+Gerhard Wisnewski
 
 | {{ site.icons.globe }}  | [www.wisnewski.ch](https://www.wisnewski.ch/) |
 

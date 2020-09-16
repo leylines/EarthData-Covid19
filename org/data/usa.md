@@ -6,6 +6,8 @@ subtitle: USA
 
 ## Centers for Disease Control (CDC)
 
+Die offiziellen Daten vom CDC.
+
 | {{ site.icons.globe }} | [Weekly Updates by Select Demographic and Geographic Characteristics](https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm) |
 
 Erwähnenswert:

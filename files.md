@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Dateien
+layout:   page
+title:    Dateien
+subtitle: Dateien zum Download
 ---
 
 <div>

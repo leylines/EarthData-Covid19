@@ -1,10 +1,12 @@
 ---
-layout: page
-title: Gesundheit
+layout:   page
+title:    Gesundheit
 subtitle: Deutschland
 ---
 
 ## Ärzte für Aufklärung
+
+Die Stiftung Ärzte für Aufklärung hilft den Menschen, die unter den unsachlichen Corona-Maßnahmen leiden. 
 
 | {{ site.icons.globe }}    | [www.ärzte-für-aufklärung.de](https://www.ärzte-für-aufklärung.de/) |
 

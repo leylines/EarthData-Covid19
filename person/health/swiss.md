@@ -1,16 +1,21 @@
 ---
-layout: page
-title: Personen - Gesundheit
+layout:   page
+title:    Gesundheit
+subtitle: Schweiz
 ---
 
-## <img src="{{site.baseurl}}/assets/img/flaggen/ch.png"> Schweiz
+## Pietro Vernazza 
 
-### Prof. Dr. med. Pietro Vernazza 
+Prof. Dr. med. Pietro Vernazza
 
-| {{ site.icons.globe }} | [infekt.ch](https://infekt.ch) |
+| {{ site.icons.globe }}    | [infekt.ch](https://infekt.ch) |
 
 ---
 
-### Beda M. Stadler
+## Beda M. Stadler
+
+Beda M. Stadler
+
+| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/Tags.html#stadler) |
 
 ---

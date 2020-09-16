@@ -1,11 +1,10 @@
 ---
-layout: page
-title: Medien
+layout:   page
+title:    Medien
+subtitle: Schweiz
 ---
 
-## <img src="{{site.baseurl}}/assets/img/flaggen/ch.png"> Schweiz
-
-### Corona-Transition
+## Corona-Transition
 
 Corona Transition macht auf öffentlich zugängliche, aber von Entscheidungsträgern kaum beachtete oder ignorierte Informationen zur Corona-Krise aufmerksam.
 
@@ -14,7 +13,9 @@ Corona Transition macht auf öffentlich zugängliche, aber von Entscheidungsträ
 
 ---
 
-### Bittel TV
+## Bittel TV
+
+Bittel TV
 
 | {{ site.icons.youtube }}  | [Bittel TV](https://www.youtube.com/c/BITTELTV) |
 | {{ site.icons.youtube }}  | [Bittel TV 2](https://www.youtube.com/channel/UCHfqgvjntX8kXYOl08j2pAg) |
@@ -23,7 +24,7 @@ Corona Transition macht auf öffentlich zugängliche, aber von Entscheidungsträ
 
 ---
 
-### Schweizer Monat
+## Schweizer Monat
 
 Der «Schweizer Monat» ist das Debattenmagazin für Politik, Wirtschaft und Kultur aus Zürich. Seit 1921 pflegt er den freiheitlichen Wettbewerb der Ideen unter den besten Autorinnen und Autoren aus der Schweiz und der ganzen Welt.
 
@@ -31,7 +32,7 @@ Der «Schweizer Monat» ist das Debattenmagazin für Politik, Wirtschaft und Kul
 
 ---
 
-### INFOsperber
+## INFOsperber
 
 Hinter der Plattform Infosperber.ch steht die gemeinnützige «Schweizerische Stiftung zur Förderung unabhängiger Information» SSUI. Die Stiftung will einen unabhängigen Journalismus in der ganzen Schweiz fördern, insbesondere journalistische Recherchen von gesellschaftlicher und politischer Relevanz.
 
@@ -40,7 +41,7 @@ Hinter der Plattform Infosperber.ch steht die gemeinnützige «Schweizerische St
 
 ---
 
-### stricker.tv
+## stricker.tv
 
 “Daniel Stricker ist der Wachhund der traditionellen Medien.” - NZZ am Sonntag
 
@@ -51,7 +52,9 @@ Hinter der Plattform Infosperber.ch steht die gemeinnützige «Schweizerische St
 
 ---
 
-### Die Weltwoche
+## Die Weltwoche
+
+Die Weltwoche
 
 | {{ site.icons.globe }}    | [www.weltwoche.ch](https://www.weltwoche.ch/) |
 

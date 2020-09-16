@@ -1,11 +1,10 @@
 ---
-layout: page
-title: Organisationen - Recht
+layout:   page
+title:    Recht
+subtitle: Deutschland
 ---
 
-## <img src="{{site.baseurl}}/assets/img/flaggen/de.png"> Deutschland  
-
-### Corona-Ausschuss
+## Corona-Ausschuss
 
 Der Corona-Ausschuss untersucht, warum die Bundes- und Landesregierungen beispiellose Beschränkungen verhängt haben und welche Folgen diese für die Menschen hatten. Er fördert wissenschaftliche Studien auf diesem Gebiet.
 
@@ -17,7 +16,7 @@ Der Corona-Ausschuss untersucht, warum die Bundes- und Landesregierungen beispie
 
 ---
 
-### Corona Schadensersatzklage
+## Corona Schadensersatzklage
 
 Die Strategie hinter der geplanten US-Sammelklage begleiten die schon aus dem Berliner „Corona-Ausschuss“ bekannten Rechtsanwälte.
 
@@ -25,7 +24,7 @@ Die Strategie hinter der geplanten US-Sammelklage begleiten die schon aus dem Be
 
 ---
 
-### klagePATEN
+## klagePATEN
 
 Die KlagePATEN sind ein Verein mit jahrelanger Erfahrung in rechtlichen Auseinandersetzungen mit Behörden und Dienststellen. 
 
@@ -38,7 +37,7 @@ Die KlagePATEN sind ein Verein mit jahrelanger Erfahrung in rechtlichen Auseinan
 
 ---
 
-### schlussjetzt
+## schlussjetzt
 
 Schlussjetzt ist ein Netzwerk kritischer Juristen. Sie haben auf dieser Seite juristische Mustertexte und Informationen für Sie zusammengestellt, so dass Sie selbst zur Verteidigung Ihrer Grundrechte im Lockdown tätig werden können.
 

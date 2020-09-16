@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Organisationen
+layout:   page
+title:    Organisationen
+subtitle: Organisationen und Gruppen
 ---
 
 <div>
