@@ -33,6 +33,7 @@ navbar-links:
     - Ticker: /blog/index.html
     - Kategorien: /categories.html
     - Tags: /tags.html
+  Events: /calendar
   Medien: /media.html
   Organisationen: /org.html
   Personen: /person.html
@@ -76,21 +77,13 @@ feed_show_tags: true
 site-css:
   - "/assets/css/custom-styles.css"
 
-#minima:
-#  skin: classic
-  
-#author:
-#  name: "Joerg Roth"
-#  email: "info@earthdata.ch"
-
-#header_pages:
-#  - blog/index.html
-#  - media.md
-#  - org.md
-#  - person.md
-#  - files.md
-
 rss-description: EarthData's Covid-19 News-Feed
+
+collections:
+  events:
+    output: true
+    permalink: /events/:path/
+    title: Events
 
 icons:
   book:     '<i class="fas fa-book" title="Buch" style="color: black"></i>'

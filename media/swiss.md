@@ -77,3 +77,11 @@ Die Weltwoche
 | {{ site.icons.globe }}    | [www.weltwoche.ch](https://www.weltwoche.ch/) |
 
 ---
+
+## ZE!TPUNKT
+
+Was uns heute bewegt
+
+| {{ site.icons.globe }}    | [www.zeitpunkt.ch](https://www.zeitpunkt.ch) |
+
+---

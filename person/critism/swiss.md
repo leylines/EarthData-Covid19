@@ -8,7 +8,7 @@ subtitle: Schweiz
 
 Roger Bittel
 
-| {{ site.icons.forward }} | [Roger Bittel]({{ site.baseurl }}/media/swiss.html#bittel-tv) |
+| {{ site.icons.forward }}  | [Roger Bittel]({{ site.baseurl }}/media/swiss.html#bittel-tv) |
 
 ---
 
@@ -16,7 +16,9 @@ Roger Bittel
 
 Christoph Pfluger
 
-| {{ site.icons.forward }} | [Christoph Pfluger]({{ site.baseurl }}/media/swiss.html#corona-transition) |
+| {{ site.icons.forward }}  | [Corona-Transition]({{ site.baseurl }}/media/swiss.html#corona-transition) |
+| {{ site.icons.forward }}  | [ZE!TPUNKT]({{ site.baseurl }}/media/swiss.html#zetpunkt) |
+| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/Tags.html#pfluger) |
 
 ---
 
@@ -24,7 +26,7 @@ Christoph Pfluger
 
 Milosz Matuschek
 
-| {{ site.icons.forward }} | [Milosz Matuschek]({{ site.baseurl }}/media/swiss.html#schweizer-monat) |
+| {{ site.icons.forward }}  | [Milosz Matuschek]({{ site.baseurl }}/media/swiss.html#schweizer-monat) |
 
 ---
 
@@ -32,6 +34,6 @@ Milosz Matuschek
 
 Daniel Stricker
 
-| {{ site.icons.forward }} | [Daniel Stricker]({{ site.baseurl }}/media/swiss.html#strickertv) |
+| {{ site.icons.forward }}  | [Daniel Stricker]({{ site.baseurl }}/media/swiss.html#strickertv) |
 
 ---
